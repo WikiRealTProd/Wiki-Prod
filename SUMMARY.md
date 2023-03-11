@@ -6,6 +6,7 @@
     * [Questions autour de RealT](aide-en-francais/site-realt/questions-autour-de-realt.md)
     * [Acheter des RealTokens](aide-en-francais/site-realt/acheter-des-realtokens/README.md)
       * [Mode de paiement RealT](aide-en-francais/site-realt/acheter-des-realtokens/mode-de-paiement-realt.md)
+      * [Achat/Paiement avec Smartphone](aide-en-francais/site-realt/acheter-des-realtokens/achat-paiement-avec-smartphone.md)
       * [Annonce de mise en vente](aide-en-francais/site-realt/acheter-des-realtokens/annonce-de-mise-en-vente.md)
       * [Signature du contrat RealT](aide-en-francais/site-realt/acheter-des-realtokens/signature-du-contrat-realt.md)
       * [Paiement avec Request Finance](aide-en-francais/site-realt/acheter-des-realtokens/paiement-avec-request-finance.md)

@@ -2,7 +2,7 @@
 
 Après votre commande sur le site RealT, avec l'[option de paiement](mode-de-paiement-realt.md)  Coinbase Commerce :&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Option 2 du panneau de paiement RealT</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Option 2 du panneau de paiement RealT</p></figcaption></figure>
 
 Sur votre navigateur, une nouvelle page Coinbase Commerce s'ouvre et vous demande de choisir la monnaie et le réseau de paiement&#x20;
 

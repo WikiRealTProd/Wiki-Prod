@@ -28,7 +28,7 @@ Vous disposez d'1 heure pour effectuer votre paiement avec Coinbase Commerce.
 
 ## Par Carte Bancaire
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Troisième option des modes de paiement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Troisième option des modes de paiement</p></figcaption></figure>
 
 Depuis Juillet 2022, des frais sont appliqués.&#x20;
 

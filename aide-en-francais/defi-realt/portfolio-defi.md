@@ -20,6 +20,6 @@ Ces outils sont très pratiques pour suivre l'historique vos transactions (certe
 
 &#x20;                                               [https://debank.com/](https://debank.com/)
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Onglet Porfolio</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Onglet Porfolio</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption><p>Onglet History</p></figcaption></figure>
