@@ -2,7 +2,7 @@
 
 Après votre commande sur le site RealT, avec l'[option de paiement](mode-de-paiement-realt.md) Gnosis Chain :&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption><p>Option 1 du panneau de paiement RealT</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (36) (1).png" alt=""><figcaption><p>Option 1 du panneau de paiement RealT</p></figcaption></figure>
 
 Request Finance vous adresse un mail, qui contient un lien pour accéder directement à votre facture :&#x20;
 

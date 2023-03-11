@@ -6,7 +6,7 @@ Plusieurs solutions sont possibles :
 
 Onglet My Account, puis Portfolio, partie Properties :
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Avec des Portfolio de Defi
 

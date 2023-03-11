@@ -10,7 +10,7 @@ Avec une vingtaine de colonnes d'informations pour chaque RealToken. Il se tél�
 
 {% hint style="info" %}
 Pour afficher ce csv dans votre tableur favori, vous devrez (soit au moment du chargement, soit après dans le formatage des données) tabuler les données avec les ":" comme séparateur : \
-<img src="../../.gitbook/assets/image (22).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (22) (1).png" alt="" data-size="original">
 {% endhint %}
 
 ## Tableur (version détaillée)

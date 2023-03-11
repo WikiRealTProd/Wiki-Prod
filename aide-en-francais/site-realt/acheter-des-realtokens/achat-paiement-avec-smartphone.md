@@ -29,19 +29,15 @@ Sur votre smartphone, avec MetaMask, les étapes sont alors :&#x20;
 
 <details>
 
-<summary>Parcours en image</summary>
+<summary>Parcours en image (Paiment Request Finance avec MetaMask mobile)</summary>
 
-<img src="../../../.gitbook/assets/image (6).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (32).png" alt="" data-size="original">
+
+<img src="../../../.gitbook/assets/image (10).png" alt="" data-size="original">
+
+<img src="../../../.gitbook/assets/image.png" alt="" data-size="original">
 
 </details>
-
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ## Avec un wallet mobile autre que MetaMask
 
@@ -63,11 +59,17 @@ Sur votre smartphone, pour un paiement Request Finance avec [RealT Wallet](../..
 9. Revenir sur RealT Wallet, une demande d'approbation est apparue, que vous devez confirmer,
 10. Repasser sur le navigateur : le paiement ayant été effectué la facture apparait en mode "Paid".
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<details>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<summary>Parcours en image (Paiement Request Finance avec RealT Wallet)</summary>
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<img src="../../../.gitbook/assets/image (26).png" alt="" data-size="original">
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<img src="../../../.gitbook/assets/image (25).png" alt="" data-size="original">
+
+<img src="../../../.gitbook/assets/image (15).png" alt="" data-size="original">
+
+<img src="../../../.gitbook/assets/image (8).png" alt="" data-size="original">
+
+</details>
 

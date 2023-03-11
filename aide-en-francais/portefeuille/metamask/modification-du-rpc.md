@@ -16,7 +16,7 @@ Pour ce faire :&#x20;
     <figure><img src="../../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 *   Slectionner la partie réseau, et modifier l'URL du RPC
 
-    <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 * Pour trouver des URL de RPC pour Gnosis : [https://chainlist.org/chain/100](https://chainlist.org/chain/100)
 
 <figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>

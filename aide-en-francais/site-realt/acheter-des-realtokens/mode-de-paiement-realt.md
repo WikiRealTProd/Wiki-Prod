@@ -6,13 +6,13 @@ Trois mode de paiement sont disponibles, pour vos achats sur le site RealT :
 
 Le paiement se fait en USDC ou xDAI, sur le réseau Gnosis.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Première option des modes de paiement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Première option des modes de paiement</p></figcaption></figure>
 
 Vous disposez de 8 heures pour effectuer votre paiement avec [Request Finance](paiement-avec-request-finance.md)..
 
 ## Avec Coinbase Commerce
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Seconde option des modes de paiement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (2).png" alt=""><figcaption><p>Seconde option des modes de paiement</p></figcaption></figure>
 
 Ce mode de paiement ne nécessite pas de compte Coinbase.&#x20;
 
@@ -28,7 +28,7 @@ Vous disposez d'1 heure pour effectuer votre paiement avec Coinbase Commerce.
 
 ## Par Carte Bancaire
 
-<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Troisième option des modes de paiement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Troisième option des modes de paiement</p></figcaption></figure>
 
 Depuis Juillet 2022, des frais sont appliqués.&#x20;
 

@@ -22,4 +22,4 @@ L'application vous donnera alors la référence de l'offre d'échange à transme
 
 Avec cette référence, le wallet destinataire de l'échange, va pouvoir accéder à l'offre, signer l'autorisation d'accès au token d'échange (ici USDC), puis autoriser l'échange :&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
