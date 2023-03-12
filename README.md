@@ -6,7 +6,7 @@ description: Bienvenue sur le Wiki de la communauté RealT
 
 Cet espace permet le partage entre investisseurs dans la solution [https://realt.co/](https://realt.co/) &#x20;
 
-Les articles sont classés, dans le bandeau sur la gauche, mais le plus simple est peut être d'utiliser l'outil de recherche (en haut à droite) pour trouver réponses à vos questions ....
+Les articles sont classés, dans le bandeau sur la gauche, mais le plus simple est peut être d'utiliser l'outil de recherche (en haut à droite) pour trouver réponses à vos questions ...
 
 En dernier ressort, vous pouvez solliciter le support ![https://realt.co/](<.gitbook/assets/image (96).png>)
 
