@@ -1,28 +1,28 @@
 ---
-description: Si la vente se fait, alors que vous n'avez pas accès à votre ordinateur ..
+description: pour une vente loin de votre ordinateur, par exemple ..
 ---
 
 # Achat/Paiement avec Smartphone
 
 La procédure est moins simple que sur votre ordinateur, mais parfois on a pas le choix !
 
-Il faut dans ce cas avoir une version de votre wallet sur un mobile. Suivants la solution retenue la procédure est différente.
+Il faut dans ce cas avoir une version de votre wallet sur un mobile. Suivants le wallet choisi, la procédure est différente.
 
 ## Avec MetaMask
 
-MetaMask est disponible sur votre ordinateur et sur mobile : [Android](https://play.google.com/store/apps/details?id=io.metamask) , [IOS](https://apps.apple.com/fr/app/metamask-blockchain-wallet).
+MetaMask est disponible sur votre ordinateur, mais aussi sur mobile : [Android](https://play.google.com/store/apps/details?id=io.metamask) , [IOS](https://apps.apple.com/fr/app/metamask-blockchain-wallet).
 
-A l'inverse de la version sur ordinateur (où Metamask est une extension de votre navigateur), sur mobile c'est l'application Metamask qui intègre un navigateur !. Ce n'est pas un navigateur aussi complet que ce que vous connaissez, mais ce sera bien plus simple (cf solution suivante [avec un wallet mobile autre que MetaMask](achat-paiement-avec-smartphone.md#avec-un-wallet-mobile-autre-que-metamask)).
+A l'inverse de la version sur ordinateur (où Metamask est une extension de votre navigateur), sur mobile c'est l'application Metamask qui intègre un navigateur !. Ce n'est pas un navigateur aussi complet que ce que vous connaissez, mais ce sera suffisant et bien plus simple (cf solution suivante [avec un wallet mobile autre que MetaMask](achat-paiement-avec-smartphone.md#avec-un-wallet-mobile-autre-que-metamask)).
 
 Parmi les 3 [modes de paiement](mode-de-paiement-realt.md), prenons la première option par Request Finance.\
 (Pour un paiement via Coinbase Commerce, c'est très simple puisque la [page Coinbase](paiement-avec-coinbase-commerce.md) vous donne le montant et le wallet vers lequel faire votre paiement)
 
-Sur votre smartphone, avec MetaMask, les étapes sont alors :&#x20;
+Pour un paiement Request Finance avec votre smartphone et MetaMask (mobile), les étapes sont les suivantes :&#x20;
 
-1. Dans le mail de Request Finance, cliquer pour voir votre facture,
+1. Sur votre messagerie mobile, dans le mail de Request Finance : cliquer pour voir votre facture,
 2. Le navigateur de votre mobile va alors s'ouvrir sur le site de Request Finance (en précisant que l'application n'est pas "optimisée" sur mobile !..),
 3. Ouvrir votre MetaMask mobile et le passer en mode navigateur (ce navigateur intégré  est différent de votre navigateur habituel sur mobile),
-4. Copier l'url du site Request Finance, qui s'est ouvert dans votre navigateur mobile, et copier cette url dans le navigateur MetaMask,
+4. Copier l'url du site Request Finance, qui s'est ouvert dans votre navigateur mobile habituel, et copier cette url dans le navigateur MetaMask,
 5. La même page s'ouvre alors dans le navigateur intégré MetaMask, appuyer sur Pay Now, et une fois le montant affiché à nouveau Pay Now,
 6. MetaMask va alors basculer automatiquement en mode Portefeuille, afin que vous puissiez signer la transaction (pour mémoire, nous sommes sur Gnosis il vous faut donc un peu de xDai pour les frais de transactions),
 7. MetaMask repasse en mode Navigateur et vous pouvez voir la confirmation de paiement du  site Request Finance.
@@ -48,7 +48,7 @@ Pour faire le lien entre votre wallet et l'application web 3 dans votre navigate
 
 Sur votre smartphone, pour un paiement Request Finance avec [RealT Wallet](../../portefeuille/realt-wallet.md) (ou[Bridge Wallet](https://www.mtpelerin.com/fr/bridge-wallet)) les étapes sont les suivantes :
 
-1. Dans le mail de Request Finance, cliquer pour voir votre facture,
+1. Sur votre messagerie mobile, dans le mail de Request Finance : cliquer pour voir votre facture,
 2. Le navigateur de votre mobile va alors s'ouvrir sur le site de Request Finance (en précisant que l'application n'est pas "optimisée" sur mobile !..),
 3. Faire "Pay Now" sur la facture affichée,
 4. Dans le menu qui s'est ouvert, prendre l'option WalletConnect,
