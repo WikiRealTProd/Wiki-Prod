@@ -18,4 +18,4 @@ si jamais vous sélectionnez le réinvestissement en milieu de semaine tout les 
 
 Vous disposez d'informations sur vos maisons de réinvestissement, dans le chapitre RENT du portfolio.  En sélectionnant la propriété, vous voyez : la date de votre engagement, le montant de loyer réinvesti, la quantité de RealToken correspondant, .
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>

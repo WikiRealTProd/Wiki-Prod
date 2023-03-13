@@ -9,7 +9,7 @@ Vous pouvez vous servir des explorateurs de chain, pour en savoir plus sur : &#x
 * ce qu'il se passe sur vos wallet (transactions, liste de tokens,..),
 *   retrouver des adresses de smart-contrat (exemple USDC avec gnosisscan)
 
-    <figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
 Explorateurs :&#x20;
 

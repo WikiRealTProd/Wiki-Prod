@@ -10,7 +10,7 @@ A la différence des sites internet classique (Web2) sur lesquels vous vous conn
 
 Vous pouvez visualisez les autorisation d'accès que vous avez donné en cliquant sur les trois point en haut à droite de votre MetaMask
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 Vous pouvez ainsi vérifier les sites et supprimer ceux qui vous semble pas nécessaires.
 

@@ -12,8 +12,8 @@ Sur Ethereum, à cause des frais, une processus de Claim est en place (dont les 
 
 ## &#x20;Claim pour la livraison des propriétés sur Ethereum :&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption><p>Partie Properties de l'onglet Portfolio</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (118).png" alt=""><figcaption><p>Partie Properties de l'onglet Portfolio</p></figcaption></figure>
 
 ## Claim pour la livraison des loyers sur Ethereum
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption><p>Partie Rent de l'onglet Portfolio</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Partie Rent de l'onglet Portfolio</p></figcaption></figure>

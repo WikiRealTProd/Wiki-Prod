@@ -1,6 +1,6 @@
 # Erreur, Bug
 
-<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
 Si vous rencontrez ce genre de situation :&#x20;
 

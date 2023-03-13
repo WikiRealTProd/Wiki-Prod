@@ -51,7 +51,7 @@
     * [Ledger](aide-en-francais/portefeuille/ledger.md)
   * [🍩 La Communauté RealT](aide-en-francais/la-communaute-realt/README.md)
     * [Liste des RealTokens d'un wallet](aide-en-francais/la-communaute-realt/liste-des-realtokens-dun-wallet.md)
-    * [Liste de l'ensemble des  RealTokens](aide-en-francais/la-communaute-realt/liste-de-lensemble-des-realtokens.md)
+    * [Liste de l'ensemble des RealTokens](aide-en-francais/la-communaute-realt/liste-de-lensemble-des-realtokens.md)
     * [Analyse des Propriétés](aide-en-francais/la-communaute-realt/analyse-des-proprietes.md)
     * [Statistique sur RealT](aide-en-francais/la-communaute-realt/statistique-sur-realt.md)
     * [Analyse des investisseurs](aide-en-francais/la-communaute-realt/analyse-des-investisseurs.md)
@@ -59,7 +59,7 @@
     * [Swap](aide-en-francais/la-communaute-realt/swap.md)
   * [🍈 Annuaire](aide-en-francais/annuaire.md)
 
-##
+## Untitled Group
 
 * [Telegram RealT Fr](https://t.me/RealT\_France)
 * [Discord](https://discord.gg/SY4jrcmNVR)

@@ -31,11 +31,11 @@ Pour un paiement Request Finance avec votre smartphone et MetaMask (mobile), les
 
 <summary>Parcours en image (Paiment Request Finance avec MetaMask mobile)</summary>
 
-<img src="../../../.gitbook/assets/image (32).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (49).png" alt="" data-size="original">
 
-<img src="../../../.gitbook/assets/image (10).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (4).png" alt="" data-size="original">
 
-<img src="../../../.gitbook/assets/image.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (52).png" alt="" data-size="original">
 
 </details>
 
@@ -63,13 +63,13 @@ Sur votre smartphone, pour un paiement Request Finance avec [RealT Wallet](../..
 
 <summary>Parcours en image (Paiement Request Finance avec RealT Wallet)</summary>
 
-<img src="../../../.gitbook/assets/image (26).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (23).png" alt="" data-size="original">
 
-<img src="../../../.gitbook/assets/image (25).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (34).png" alt="" data-size="original">
 
-<img src="../../../.gitbook/assets/image (15).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (53).png" alt="" data-size="original">
 
-<img src="../../../.gitbook/assets/image (8).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (106).png" alt="" data-size="original">
 
 </details>
 

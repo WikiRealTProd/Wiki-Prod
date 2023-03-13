@@ -23,8 +23,8 @@ Par le passé, RealT diffusait un csv avec l'ensemble des SOON distribués. Cett
 
 
 
-    <figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 Schéma, fait par un membre de la communauté, pour comprendre sans rentrer dans certains détails plus complexes&#x20;
 
-<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>

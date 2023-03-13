@@ -8,7 +8,7 @@ Lors de vos transactions, vous donnez des autorisations à des Smart Contrats po
 
 Pour avoir la liste de ces autorisations (Allowance) vous pouvez utiliser l'application : [https://revoke.cash/](https://revoke.cash/)
 
-<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 Connecter votre Wallet, choisissez le bon réseau.&#x20;
 
