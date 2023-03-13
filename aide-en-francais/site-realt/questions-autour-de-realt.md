@@ -23,7 +23,7 @@ Vous pouvez rejoindre la communauté sur [Telegram](https://t.me/RealT\_France)
 
 Faites déjà une recherche (loupe en haut à droite), car une question similaire a peut être déjà été traitée sur le groupe. Sans oublier les messages importants qui sont épinglés.
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 ## Pour les développeurs
 
@@ -38,4 +38,4 @@ Quelques adresses, plus spécifique :&#x20;
 
 Ecrivez à help@realt.co ou contacter le support du [site](https://realt.co/), via la petite bulle orange en bas à droite&#x20;
 
-<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>

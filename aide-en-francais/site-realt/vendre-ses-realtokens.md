@@ -8,7 +8,7 @@ A raison de 2000 $ maximum par semaine. La procédure peut prendre jusqu'à 2 se
 
 Des frais de 3 % sont prélevés sur la vente.
 
-<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 [Video d'explication](https://youtu.be/soGx6YLYO6k)
 

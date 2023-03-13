@@ -13,10 +13,10 @@ Pour ce faire :&#x20;
 * Il faut sélectionner le réseau (ici Gnosis),
 *   Aller dans la section paramètre de MetaMask (en cliquant sur le cercle coloré en haut à droite)
 
-    <figure><img src="../../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 *   Slectionner la partie réseau, et modifier l'URL du RPC
 
-    <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 * Pour trouver des URL de RPC pour Gnosis : [https://chainlist.org/chain/100](https://chainlist.org/chain/100)
 
-<figure><img src="../../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>

@@ -10,7 +10,7 @@ Avec une vingtaine de colonnes d'informations pour chaque RealToken. Il se tél�
 
 {% hint style="info" %}
 Pour afficher ce csv dans votre tableur favori, vous devrez (soit au moment du chargement, soit après dans le formatage des données) tabuler les données avec les ":" comme séparateur : \
-<img src="../../.gitbook/assets/image (15).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (86).png" alt="" data-size="original">
 {% endhint %}
 
 ## Tableur (version détaillée)
@@ -27,12 +27,12 @@ A partir de cet API, un membre de la communauté met à disposition dans un goog
 Avec le site suivant \
 &#x20;                     [https://yam.jycssu.fr/#/token](https://yam.jycssu.fr/#/token)
 
-<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 qui permet l'analyse des échanges par RealToken&#x20;
 
-<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
 ## via l'API RealT (pour les développeurs) :
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>

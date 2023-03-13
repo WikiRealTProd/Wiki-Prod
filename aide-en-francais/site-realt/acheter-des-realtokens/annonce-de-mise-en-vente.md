@@ -17,4 +17,4 @@ Elles réduisent aussi lorsque la vente approche de la fin pour laisser la chanc
 
 Si vous ne voyez pas le stock disponible, c'est que vous avez atteint la limite d'achat !
 
-<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>

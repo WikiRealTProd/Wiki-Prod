@@ -6,13 +6,13 @@ Trois mode de paiement sont disponibles, pour vos achats sur le site RealT :
 
 Le paiement se fait en USDC ou xDAI, sur le réseau Gnosis.
 
-<figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption><p>Première option des modes de paiement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (84).png" alt=""><figcaption><p>Première option des modes de paiement</p></figcaption></figure>
 
 Vous disposez de 8 heures pour effectuer votre paiement avec [Request Finance](paiement-avec-request-finance.md)..
 
 ## Avec Coinbase Commerce
 
-<figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption><p>Seconde option des modes de paiement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption><p>Seconde option des modes de paiement</p></figcaption></figure>
 
 Ce mode de paiement ne nécessite pas de compte Coinbase.&#x20;
 
@@ -22,13 +22,13 @@ De nombreuses monnaies et réseaux de paiement sont possibles :&#x20;
 * BTC, BCH, LTC, DOGE chacun sur son propre réseau,
 * et MATIC, USDC et WETH sur réseau Polygon,
 
-<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption><p>Extrait page de paiement Coinbase Commerce</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Extrait page de paiement Coinbase Commerce</p></figcaption></figure>
 
 Vous disposez d'1 heure pour effectuer votre paiement avec Coinbase Commerce.
 
 ## Par Carte Bancaire
 
-<figure><img src="../../../.gitbook/assets/image (102).png" alt=""><figcaption><p>Troisième option des modes de paiement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Troisième option des modes de paiement</p></figcaption></figure>
 
 Depuis Juillet 2022, des frais sont appliqués.&#x20;
 

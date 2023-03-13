@@ -4,4 +4,4 @@ Avec l'outil d'analyse suivant [https://yam.jycssu.fr/#/](https://yam.jycssu.fr/
 
 
 
-<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>

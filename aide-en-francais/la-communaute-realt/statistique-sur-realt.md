@@ -7,4 +7,4 @@ description: sur les deux réseau Ethereum et Gnosis
 Avec l'outil d'analyse Dune, et des requêtes préétablies \
 &#x20;                                                    [https://dune.com/k06a/RealToken](https://dune.com/k06a/RealToken)
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

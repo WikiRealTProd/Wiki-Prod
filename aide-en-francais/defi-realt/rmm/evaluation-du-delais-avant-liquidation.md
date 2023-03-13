@@ -7,7 +7,7 @@ La liste des Wallet proches de la liquidation, est accessible dans un des [ongle
 
 Prenons l'exemple suivant :
 
-<figure><img src="../../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 Pour calculer le délais avant liquidation, il faut disposer de deux informations sur le wallet :
 

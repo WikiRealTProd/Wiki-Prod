@@ -6,11 +6,11 @@ description: Valeurs modifiables sur le site
 
 ## A partir de l'onglet Portfolio
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 ## Pour les Wallets
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
 Vous pouvez modifier :&#x20;
 
@@ -23,16 +23,16 @@ Vous pouvez modifier :&#x20;
 
 ## Pour les Loyers
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 Si votre wallet est sur Gnosis, vous pouvez modifier la monnaie dans laquelle seront payés vos loyers : USDC ou xDai.
 
 ## A partir de l'onglet Account Details
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 ## Pour votre Mot de passe et l'email de loyer
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 Une fois coché la réception d'un email de loyer, vous recevrez chaque semaine (lundi en fin de journée) un rapport détaillé sur le paiement de la semaine précédente ([_détail_](rapport-hebdo-des-loyers/)__[_s_](rapport-hebdo-des-loyers/))

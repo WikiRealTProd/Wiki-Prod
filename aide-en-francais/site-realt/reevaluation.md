@@ -12,14 +12,14 @@ Le montant d'achat du RealToken est inchangé, par contre le montant à la vente
 
 Un nouvel onglet "Valuation", apparait alors sur la page de la propriété :&#x20;
 
-<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption><p>Propriété 7430 Nett St</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption><p>Propriété 7430 Nett St</p></figcaption></figure>
 
 Vous voyez notamment l'évolution de la valeur du bien durant la période (Asset Valuation).\
 Dans l'exemple ci-dessus, la propriété achetée à l'origine à 70,5 K$ vaut en février 2023 : 83 K$. Soit une augmentation de 17,73% sur 584j, ou 11,09% par an.
 
 Concernant le montant de l'investissement, qui détermine le prix du token, il évolue comme suit dans l'exemple ci-dessus :&#x20;
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Après réévaluation, les montants des provisions à l'origine, n'apparaissant plus dans l'onglet "Financials" de la propriété : vous pouvez les retrouver sur un [outil communautaire](../la-communaute-realt/analyse-des-proprietes.md).
@@ -33,4 +33,4 @@ Le ROI de l'investissement sur ce RealToken intègre le montant des SOON (valori
 
 Une synthèse des dernière réévaluations, figure en bas de la première page du [site RealT](https://realt.co/)
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>

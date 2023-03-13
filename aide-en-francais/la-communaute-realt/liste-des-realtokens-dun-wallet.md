@@ -6,7 +6,7 @@ Plusieurs solutions sont possibles :
 
 Onglet My Account, puis Portfolio, partie Properties :
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 ## Avec des Portfolio de Defi
 
@@ -18,7 +18,7 @@ particulièrement adaptés aux spécificités des RealToken&#x20;
 
 *   Site Web : [https://dashboard.realt.community/portfolio](https://dashboard.realt.community/portfolio)&#x20;
 
-    <figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 
 *   Feuille Google Sheet

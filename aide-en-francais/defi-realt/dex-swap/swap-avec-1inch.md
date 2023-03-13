@@ -2,7 +2,7 @@
 
 Comment, étape par étape, faire un échange en P2P (achat/vente/échange) de RealToken avec l'application [1Inch](https://app.1inch.io/) :&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 1. Vous vous connectez à l'application et sélectionnez la chain Gnosis,
 2. Sélectionner l'onglet 2P2 dans l'app,
@@ -18,8 +18,8 @@ Vous allez ensuite : signer l'autorisation d'accès du contrat 1inch à votre Re
 
 L'application vous donnera alors la référence de l'offre d'échange à transmettre :&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 Avec cette référence, le wallet destinataire de l'échange, va pouvoir accéder à l'offre, signer l'autorisation d'accès au token d'échange (ici USDC), puis autoriser l'échange :&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
