@@ -1,5 +1,5 @@
 ---
-description: Sur le site RealT ...ou ailleurs
+description: Sur le site RealT ...ou ailleurs.
 ---
 
 # Acheter des RealTokens
