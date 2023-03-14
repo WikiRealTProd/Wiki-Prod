@@ -6,9 +6,9 @@ description: de la valeur de la propriété
 
 Chaque propriété est réévaluée annuellement (en principe :wink:).
 
-L'expertise, qui est faite à cette occasion, donne une valeur du bien actualisée et ne change rien au montant des loyers.&#x20;
+L'expertise, qui est faite à cette occasion, donne une valeur actualisée du bien et ne change rien au montant des loyers.&#x20;
 
-Le montant d'achat du RealToken est inchangé, par contre le montant à la vente va être impacté par cette cette réévaluation.
+Le montant d'achat (passé) du RealToken est inchangé, par contre le montant à la vente (futur) va être impacté par cette cette réévaluation, ainsi que la valeur sur le RMM.
 
 Un nouvel onglet "Valuation", apparait alors sur la page de la propriété :&#x20;
 
@@ -27,7 +27,7 @@ Après réévaluation, les montants des provisions à l'origine, n'apparaissant 
 
 Le montant des frais RealT, est redistribué aux propriétaires (au moment de la première réévaluation) sous forme de SOON (qui seront converti en REG -token de gouvernance- par la suite).
 
-Le nouveau prix du Token, sera la nouvelle valeur de rachat par RealT (ce montant - 3% de frais) et influera le marché secondaire du token (qui se mesure souvent par rapport au prix référence de RealT).
+Le nouveau prix du Token, sera la nouvelle valeur de [rachat par RealT](vendre-ses-realtokens.md) (hors frais), la nouvelle valeur sur le [RMM](../defi-realt/rmm/) et influera le [marché secondaire](../defi-realt/dex-swap/yam.md) du token (qui se mesure souvent par rapport au prix référence de RealT).
 
 Le ROI de l'investissement sur ce RealToken intègre le montant des SOON (valorisé à 1$).
 
