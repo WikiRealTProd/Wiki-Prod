@@ -1,5 +1,5 @@
 ---
-description: Pour emprunter, avec des RealToken en contrepartie.
+description: Pour emprunter, avec des RealTokens en garantie.
 ---
 
 # RMM
@@ -42,7 +42,7 @@ Tuto, réalisé par un membre de la communauté, sur le mode de fonctionnement d
 * [Forum de gouvernance (DAO)](https://governance.aave.com/)
 
 {% hint style="info" %}
-RealT a crée le RMM en collaboration avec Aave, à partir de la version 2, pour un fonctionnement sur la chain Gnosis avec des RealToken en collateral.
+RealT a crée le RMM, en collaboration avec Aave : basé sur la version 2 d'Aave,  fonctionnant sur la chain Gnosis et avec des RealToken en collateral.
 {% endhint %}
 
 ## Le futur, avec l'évolution vers Aave v3
@@ -52,5 +52,6 @@ RealT a crée le RMM en collaboration avec Aave, à partir de la version 2, pour
 Etapes :&#x20;
 
 * Janvier 2023 : [Proposition de RealT ](https://governance.aave.com/t/deploy-the-rmm-v2-with-the-aave-v3-version/11249)sur le Forum de gouvernance d'Aave,
-* Février : [Proposition](https://governance.aave.com/t/arfc-proposal-for-deploying-whitelabel-aave-v3-market-for-realt-tokens-on-gnosischain/11897) d'usage d'Aave v3 en marque blanche pour le RMM
-* Mars : [Vote](https://snapshot.org/#/aave.eth/proposal/0xff69be7580614ebc1a455591c1bd651d8f0af12070d277d7d8846beb3c7c964b)
+* Février : [Proposition](https://governance.aave.com/t/arfc-proposal-for-deploying-whitelabel-aave-v3-market-for-realt-tokens-on-gnosischain/11897) d'usage d'Aave v3 en marque blanche pour le RMM,
+* Mars : [Vote](https://snapshot.org/#/aave.eth/proposal/0xff69be7580614ebc1a455591c1bd651d8f0af12070d277d7d8846beb3c7c964b),
+* [Community call du 9 Mars](https://www.youtube.com/watch?v=Csfsqg6tFuU\&ab\_channel=RealT) lors duquel Marc Zller est intervenu.

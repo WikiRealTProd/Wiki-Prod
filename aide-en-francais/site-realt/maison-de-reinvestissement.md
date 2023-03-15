@@ -1,6 +1,10 @@
+---
+description: acquise avec vos loyers.
+---
+
 # Maison de réinvestissement
 
-Ce sont des propriétés accessibles seulement pour ceux qui possèdent déjà des tokens realT d'autres maisons ( donc qui perçoivent ou vont percevoir des loyers ) visible sur le marketplace.
+Ce sont des propriétés accessibles seulement pour ceux qui possèdent déjà des tokens realT d'autres maisons (donc qui perçoivent ou vont percevoir des loyers ) visible sur le marketplace.
 
 Une fois sélectionné, cette maison fait office d'intérêt composé.
 

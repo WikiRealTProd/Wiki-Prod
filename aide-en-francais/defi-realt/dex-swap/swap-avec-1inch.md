@@ -1,6 +1,6 @@
 # Swap avec 1inch
 
-Comment, étape par étape, faire un échange en P2P (achat/vente/échange) de RealToken avec l'application [1Inch](https://app.1inch.io/) :&#x20;
+Présentation, étape par étape, d'un échange en P2P de RealToken (ici une vente, mais transposable à un achat ou un échange) avec l'application [1Inch](https://app.1inch.io/) :&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 

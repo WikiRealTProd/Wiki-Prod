@@ -4,7 +4,7 @@ description: l'Authentification avec double facteurs à votre compte RealT
 
 # Accès en 2FA à votre compte RealT
 
-[L’activation du 2FA](https://www.ma-vie-administrative.fr/particuliers/ma-vie-connectee/authentification-double-facteur/) est obligatoire pour les utilisateurs “walletless” et optionnelle pour les utilisateurs n’ayant pas opté pour cette fonctionnalité.
+[L’activation du 2FA](https://www.ma-vie-administrative.fr/particuliers/ma-vie-connectee/authentification-double-facteur/) est obligatoire pour les utilisateurs “walletless” et optionnelle pour les utilisateurs avec wallet.
 
 Deux options sont possibles, pour le code complémentaire à usage unique :&#x20;
 

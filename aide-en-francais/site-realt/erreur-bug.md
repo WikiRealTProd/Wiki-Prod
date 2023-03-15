@@ -1,3 +1,7 @@
+---
+description: au cas ou..
+---
+
 # Erreur, Bug
 
 <figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>

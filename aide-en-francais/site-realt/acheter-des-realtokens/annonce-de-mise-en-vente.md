@@ -9,11 +9,11 @@ Les nouvelles mises en ventes seront annoncées 24h avant :&#x20;
 
 ## Combien
 
-Voici actuellement les limites de base misent en place par RealT pour définir les limites de tokens par propriétés et par Holders.
+Voici actuellement les limites de base, misent en place par RealT pour définir les limites de tokens par propriétés et par Holders.
 
-Ces limites peuvent à tout moment changer selon certains paramètre mais c'est une bonne base pour la comprehension 😉
+Ces limites peuvent à tout moment changer selon certains paramètres, mais c'est une bonne base pour la compréhension 😉
 
-Elles réduisent aussi lorsque la vente approche de la fin pour laisser la chance à tout le monde d'en acquérir
+Elles réduisent aussi lorsque la vente approche de la fin pour laisser la chance à tout le monde d'en acquérir.
 
 Si vous ne voyez pas le stock disponible, c'est que vous avez atteint la limite d'achat !
 

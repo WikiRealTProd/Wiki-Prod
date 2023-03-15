@@ -1,9 +1,13 @@
+---
+description: cf question sur Telegram..
+---
+
 # Evaluation du délais avant liquidation
 
 Le mécanisme de Liquidation garantie le bon fonctionnement du RMM. Il est ouvert à tout les wallets whitelistés (cf [tuto](./)). Ce peut être une autre façon d'acquérir des RealToken avec réduction.\
 
 
-La liste des Wallet proches de la liquidation, est accessible dans un des [onglets du RMM](https://liquidation.rmm.realt.community/). Lorsque vous voyez un Health Factor très proche de 1, il peut être intéressant d'évaluer le moment de la liquidation..
+La liste des Wallet proches de la liquidation, est accessible dans un des [onglets du RMM](https://liquidation.rmm.realt.community/). Lorsque vous voyez un Health Factor très proche de 1, il peut être intéressant d'évaluer le moment de la liquidation (si le wallet reste inactif!)
 
 Prenons l'exemple suivant :
 
@@ -32,7 +36,7 @@ Si le wallet est inactif, l'évaluation du nombre de jours avant la liquidation,
 Conclusion : Si le propriétaire de ce wallet ne fait rien, il deviendra liquidable dans 82 jours.
 
 {% hint style="warning" %}
-Avec un seul RealToken en collatéral, la liquidation pourrait aller jusqu’à 4244$ ! .. (soit 50 % du collatéral \* (1+ 10 % de pénalité de liquidation)).
+Avec un seul type de RealToken en collatéral, la liquidation pourrait aller jusqu’à 4244$ ! .. (soit 50 % du collatéral \* (1+ 10 % de pénalité de liquidation)).
 
-Ce montant pourrait être bien moindre, si le collatéral avait été réparti sur de multiples RealToken (la liquidation se faisant RealToken par RealToken, jusqu’à HF > 1)
+Ce montant pourrait être bien moindre, si le collatéral avait été réparti sur de multiples types de RealTokens (la liquidation se faisant RealToken par RealToken, jusqu’à HF > 1)
 {% endhint %}

@@ -6,6 +6,8 @@ description: le jeton et pré-jeton de gouvernance
 
 Le jeton SOON est la première étape, vers un jeton de Gouvernance.
 
+Communication correpondante :&#x20;
+
 * [Community call](https://www.youtube.com/watch?v=YJGj2JcSu6c\&t=632s) de présentation et des mécanisme du Soon token,
 * [Article de présentation](https://medium.com/realtplatform-%C3%A9dition-fran%C3%A7aise/realt-inc-d%C3%A9voile-enfin-son-token-de-gouvernance-le-reg-58a046eabddb) sur le REG (Real Estate Gouvernance) et la futur DAO
 

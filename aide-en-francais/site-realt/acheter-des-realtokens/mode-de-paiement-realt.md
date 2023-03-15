@@ -1,4 +1,8 @@
-# Mode de paiement RealT
+---
+description: après avoir rempli votre caddie d'achat..
+---
+
+# Modes de paiement RealT
 
 Trois mode de paiement sont disponibles, pour vos achats sur le site RealT :
 
@@ -8,7 +12,7 @@ Le paiement se fait en USDC ou xDAI, sur le réseau Gnosis.
 
 <figure><img src="../../../.gitbook/assets/image (84).png" alt=""><figcaption><p>Première option des modes de paiement</p></figcaption></figure>
 
-Vous disposez de 8 heures pour effectuer votre paiement avec [Request Finance](paiement-avec-request-finance.md)..
+Vous disposez de 8 heures pour effectuer votre paiement avec [Request Finance](paiement-avec-request-finance.md).
 
 ## Avec Coinbase Commerce
 
@@ -33,14 +37,14 @@ Vous disposez d'1 heure pour effectuer votre paiement avec Coinbase Commerce.
 Depuis Juillet 2022, des frais sont appliqués.&#x20;
 
 * RealT détaille les raisons sur son Blog : [https://realt.co/episode-4-limmobilier-tokenise-une-redistribution-plus-juste-des-profits/](https://realt.co/episode-4-limmobilier-tokenise-une-redistribution-plus-juste-des-profits/)
-* Et propose des solutions pour acheter vos RealToken sans Carte de Crédit : [https://realt.co/episode-5-la-banque-du-future-grace-a-la-defi/](https://realt.co/episode-5-la-banque-du-future-grace-a-la-defi/)
+* Et propose des solutions pour acheter vos RealTokens sans Carte de Crédit : [https://realt.co/episode-5-la-banque-du-future-grace-a-la-defi/](https://realt.co/episode-5-la-banque-du-future-grace-a-la-defi/)
 
 {% hint style="success" %}
 Depuis le 15 Février 2023 et pour une durée de 3 mois, RealT ne facture pas de frais de CB&#x20;
 {% endhint %}
 
-Pensez aux frais de change (selon votre banque) avant d'acheter avec une C. B.
+Pensez aux frais de change (selon votre banque) avant d'acheter avec une C.B.
 
 {% hint style="info" %}
-Les compte RealT en mode "WalletLess" ne peuvent utiliser que le mode de paiement par Carte Bancaire.
+Les compte RealT en [mode "WalletLess"](../walletless.md) ne peuvent utiliser que le mode de paiement par Carte Bancaire.
 {% endhint %}

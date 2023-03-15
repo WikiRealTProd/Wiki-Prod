@@ -12,7 +12,7 @@
 Il n'y a pas de frais de protocole, seulement des frais de réseau.
 
 {% hint style="danger" %}
-&#x20;Attention il existe sur le marché [faux RealToken](https://realt.co/warning-malicious-activity-on-swap-cat-involving-fake-realtokens/)
+&#x20;Attention : il existe sur le marché [faux RealToken](https://realt.co/warning-malicious-activity-on-swap-cat-involving-fake-realtokens/)
 {% endhint %}
 
 ## Front End
@@ -26,7 +26,7 @@ L'interface du DEX étant très rudimentaire, des membres de la communauté ont 
 
 ## Comment retrouver une annonce
 
-Le PDF ci-après,fait par un memebre de la communauté, explique comment retrouver une annonce swapcat pour la modifier/supprimer
+Le PDF ci-après, fait par un mem :bre de la communauté, explique comment retrouver une annonce swapcat pour la modifier/supprimer
 
 {% file src="../../../.gitbook/assets/Retrouver une annonce swapcat.pdf" %}
 

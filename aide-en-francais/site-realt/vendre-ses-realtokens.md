@@ -25,5 +25,5 @@ Dans la partie Order du site RealT :&#x20;
 
 ## Hors RealT
 
-Il est aussi possible de vendre ses RealToken hors site RealT, avec des application décentralisé de [Swap](../defi-realt/dex-swap/)
+Il est aussi possible de vendre ses RealTokens hors site RealT, avec des applications décentralisées de [Swap](../defi-realt/dex-swap/)
 

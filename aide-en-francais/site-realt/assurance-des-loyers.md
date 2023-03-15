@@ -8,7 +8,7 @@ Pour couvrir ce genre risque, il existe sur la blockchain des solutions d'assura
 
 En 2021, RealT a réalisé une première expérimentation avec Opium, pour proposer ce type de service.&#x20;
 
-Communication faite à cet occasion :&#x20;
+Communications faites, à cette occasion :&#x20;
 
 * [Community Call](https://www.youtube.com/watch?v=8A-WTTf9ZyM\&ab\_channel=RealT),
 * [Article](https://realt.co/welcome-to-our-new-service-decentralized-insurance/)&#x20;

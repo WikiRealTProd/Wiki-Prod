@@ -1,8 +1,8 @@
 ---
-description: montant détaillé de vos loyers de la semaine précédente
+description: de la semaine précédente
 ---
 
-# Rapport hebdo des loyers
+# email hebdo de vos loyers
 
 {% hint style="info" %}
 Pour recevoir ce mail, vous devez avoir coché la fonction correspondante sur le site RealT _(_[_procédure_](../parametrage-realt.md))
@@ -22,7 +22,7 @@ Vos propriétés sont classés par Wallet (0x..., si vous en avez plusieurs), pu
 
 "Average Token Quantity" est le nombre moyen de jetons que vous avez possédés au cours de cette période de location. Si vos loyers commencent en milieu de semaine, votre "quantité moyenne de tokens" sera donc inférieure à la quantité réelle de tokens dont vous disposez.
 
-Lorsque votre RealToken a été déposé sur le RMM : dans la liste, la mention Rmm l'indique ainsi que la quantité correspondante :&#x20;
+Les RealToken déposés sur le RMM apparaissent sur des lignes spécifiques avec la mention Rmm à la fin du nom, ainsi que la quantité correspondante :&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
