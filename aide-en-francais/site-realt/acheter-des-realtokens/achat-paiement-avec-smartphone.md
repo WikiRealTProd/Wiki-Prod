@@ -33,7 +33,7 @@ Pour un paiement Request Finance avec votre smartphone et MetaMask (mobile), les
 
 <img src="../../../.gitbook/assets/image (35).png" alt="" data-size="original">
 
-<img src="../../../.gitbook/assets/image (10).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (10) (1).png" alt="" data-size="original">
 
 <img src="../../../.gitbook/assets/image (54).png" alt="" data-size="original">
 

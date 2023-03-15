@@ -1,5 +1,5 @@
 ---
-description: synthèse des principaux liens...
+description: Synthèse des principaux liens...
 ---
 
 # 🍈 Annuaire
@@ -17,18 +17,27 @@ description: synthèse des principaux liens...
 * Achat Crypto : [Mt Pelerin](https://www.mtpelerin.com/fr), [Monerium](https://monerium.com/), [CEX](https://coinmarketcap.com/fr/rankings/exchanges/),
 * Echange de RealToken : [YAM](https://yam.realtoken.network/), [Swapcat](https://cloudflare-ipfs.com/ipfs/QmZ8wkYtFgGXpHpPGGjQAynS5m8jc4df9KwD4v1pV27yBK/start.htm), [1inch](https://app.1inch.io/),
 * Prêt / Emprunt avec RealToken : [RMM](https://rmm.realtoken.network/markets),
-* Bridge :
-* Portfolio : [DeBank](https://debank.com/), [Zapper](https://zapper.xyz/fr)
+* Bridge : [Connext](https://bridge.connext.network/USDC-from-gnosis-to-binance), [Hop](https://hop.exchange/), [Jumper Exchange](https://jumper.exchange/),&#x20;
+* Portfolio : [DeBank](https://debank.com/), [Zapper](https://zapper.xyz/fr),
+* Explorateur :&#x20;
+  * Gnosis : [GnosisScan](https://gnosisscan.io/), [Blockscout](https://blockscout.com/xdai/mainnet),
+  * Ethereum : [EthherScan](https://etherscan.io/),  [Blockscout](https://blockscout.com/eth/mainnet),
+* Divers&#x20;
+  * [CoinGecko](https://www.coingecko.com/fr),
+  * [CoinMarketCap](https://coinmarketcap.com/),
+  * [DefiLlama](https://defillama.com/)
 {% endtab %}
 
 {% tab title="Wallet" %}
 * Cold Wallet : [Ledger](https://www.ledger.com/fr), [Satoship](https://satochip.io/?lang=fr), [Trezor](https://trezor.io/),
-* Hot Wallet Mobile : Bridge Wallet ([Mt Pelerin](https://www.mtpelerin.com/bridge-wallet)) , RealT Wallet ([Andoid](https://play.google.com/store/apps/details?id=co.realt.bridge\&hl=fr\&gl=US\&pli=1), [IOS](https://apps.apple.com/fr/app/realt-wallet/id1545585469)),
+* Hot Wallet Mobile : Bridge Wallet ([Mt Pelerin](https://www.mtpelerin.com/bridge-wallet)) , RealT Wallet ([Andoid](https://play.google.com/store/apps/details?id=co.realt.bridge\&hl=fr\&gl=US\&pli=1), [IOS](https://apps.apple.com/fr/app/realt-wallet/id1545585469)),&#x20;
 * Hot Wallet "classique" : [MetaMask](https://metamask.io/),
+* Multi-Signature : [Safe](https://safe.global/wallet)
 {% endtab %}
 
 {% tab title="Sécurité" %}
 * Cold Wallet : [Ledger](https://www.ledger.com/fr), [Satoship](https://satochip.io/?lang=fr), [Trezor](https://trezor.io/),
+* Contrôle des Allowance (autorisation de dépense) : [Revoke](https://revoke.cash/)
 * Alerte [faux RealToken](https://realt.co/warning-malicious-activity-on-swap-cat-involving-fake-realtokens/),
 {% endtab %}
 
@@ -40,3 +49,4 @@ description: synthèse des principaux liens...
 * [Dune](https://dune.com/k06a/RealToken),
 {% endtab %}
 {% endtabs %}
+

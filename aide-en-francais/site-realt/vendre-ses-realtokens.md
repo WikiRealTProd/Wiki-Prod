@@ -10,7 +10,9 @@ Des frais de 3 % sont prélevés sur la vente.
 
 <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-[Video d'explication](https://youtu.be/soGx6YLYO6k)
+[Video d'explication](https://youtu.be/soGx6YLYO6k) sur l'ensemble de la démarche.
+
+Article de la base de support RealT [sur le sujet](https://faq.realt.co/en/articles/5703186-sending-your-realtokens-back-to-realt-using-the-realt-wallet)
 
 ## Statuts de vos commande de vente
 

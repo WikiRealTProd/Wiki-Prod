@@ -11,10 +11,10 @@ de RealT et de son offre de Tokenisation immobilière, vous pouvez consulter :
 * leur [Wiki](https://wiki.realt.co/v/francais/),
 * leur [Blog](https://realt.co/blog/),
 * la [base de connaissance](https://intercom.help/realt/en/) du support RealT,
-* les [Community Call](https://www.youtube.com/@RealTplatform/streams).
+* les [Community Call](https://www.youtube.com/@RealTplatform/streams),
 
 {% hint style="info" %}
-Un membre de la communauté fait des synthèses de ces call, sur le [Telegram](https://t.me/RtCCR).
+Un membre de la communauté fait des synthèses de ces call sur [Telegram](https://t.me/RtCCR).
 {% endhint %}
 
 * de nombreuses interventions des Fondateurs pour présenter le projet, la Société, .. [exemple de podcast](https://smartlinks.audiomeans.fr/l/chercheurs-de-valeur-9e55f2b3/limmobilier-tokenise-bientot-la-norme-entretien-avec-jean-marc-jacobson-ef0c8a09)
@@ -23,7 +23,7 @@ Un membre de la communauté fait des synthèses de ces call, sur le [Telegram](h
 
 Vous pouvez rejoindre la communauté sur [Telegram](https://t.me/RealT\_France)
 
-Faites déjà une recherche (loupe en haut à droite), car une question similaire a peut être déjà été traitée sur le groupe. Sans oublier les messages importants qui sont épinglés.
+Avant de poser votre question, faites déjà une recherche (loupe en haut à droite), car une question similaire a peut être déjà été traitée sur le groupe. Sans oublier les messages importants, qui sont épinglés.
 
 <figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 

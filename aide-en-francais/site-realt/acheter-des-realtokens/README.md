@@ -7,9 +7,9 @@ description: sur le site RealT... ou ailleurs
 Les Tonkens de propriété RealT (RealToken) sont disponibles sur deux types de marchés :
 
 1. **Le marché Primaire** ("du neuf") : qui s'exécute sur le site [RealT](https://realt.co/) :
-   * Il faut au **préalable** : s'inscrire sur le site et exécuté la procédure **KYC**,
-   * Vous pourrez ensuite, acheter vos RealTokens lors des ventes sur le site. \
-     Deux types de ventes :&#x20;
+   * Il faut au **préalable** : s'inscrire sur le site et exécuté la procédure **KYC** (vérification d'identité),
+   * Vous pourrez ensuite, acheter vos RealTokens lors des ventes sur le site.\
+     Deux types de ventes :
      * pour de nouveaux RealTokens créés par RealT pour l'achat de nouveaux biens immobilier,
      * pour des RealTokens déjà émis et [rachetés par RealT](../vendre-ses-realtokens.md), puis revendus (lors de "ventes sauvages"),
    * un contrat vous sera alors adressé, et après sa signature vous recevrez vos RealTokens.
