@@ -17,6 +17,8 @@ de RealT et de son offre de Tokenisation immobilière, vous pouvez consulter :
 Un membre de la communauté fait des synthèses de ces call, sur le [Telegram](https://t.me/RtCCR).
 {% endhint %}
 
+* de nombreuses interventions des Fondateurs pour présenter le projet, la Société, .. [exemple de podcast](https://smartlinks.audiomeans.fr/l/chercheurs-de-valeur-9e55f2b3/limmobilier-tokenise-bientot-la-norme-entretien-avec-jean-marc-jacobson-ef0c8a09)
+
 ## Pour des questions complémentaires
 
 Vous pouvez rejoindre la communauté sur [Telegram](https://t.me/RealT\_France)
