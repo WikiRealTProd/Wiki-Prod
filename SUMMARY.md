@@ -22,7 +22,7 @@
     * [Réévaluation](aide-en-francais/site-realt/reevaluation.md)
     * [REG / SOON](aide-en-francais/site-realt/reg-soon.md)
     * [Détokenisation d'une propriété](aide-en-francais/site-realt/detokenisation-dune-propriete.md)
-    * [Assurance des loyers](aide-en-francais/site-realt/assurance-des-loyers.md)
+    * [Protection  des loyers](aide-en-francais/site-realt/assurance-des-loyers.md)
     * [Vendre ses RealTokens](aide-en-francais/site-realt/vendre-ses-realtokens.md)
     * [Impots](aide-en-francais/site-realt/impots.md)
     * [Succession](aide-en-francais/site-realt/succession.md)
