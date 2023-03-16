@@ -5,7 +5,7 @@ description: pour visualiser vos actifs
 # Ajout d'un token
 
 De base, vous ne voyez sur MetaMask que le coin propre à sa blockchain (càd la monnaie de paiement des transactions : ETH sur Ethereum ou XDAI pour Gnosis).\
-Pour voir vos loyers en USDC sur Gnosis,  il va donc être nécessaire d'ajouter ce jeton.
+Pour voir vos loyers en USDC sur Gnosis, il est donc être nécessaire d'ajouter ce jeton.
 
 {% hint style="info" %}
 Cet ajout n'est pas obligatoire pour recevoir tels ou tels tokens, c'est juste pour pouvoir le visualiser.
