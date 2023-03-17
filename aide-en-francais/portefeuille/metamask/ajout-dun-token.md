@@ -31,7 +31,7 @@ Pour ajouter le token correspondant à une propriété RealT, il faut  :&#x20;
 
 *   Chercher l'adresse du smart contrat, sur la fiche de la propriété sur le site RealT :&#x20;
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 *   Copier l'adresse du contrat, l'ajouter sur MetaMask, et réduire la taille du nom à 11 caractères
 
     <figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>

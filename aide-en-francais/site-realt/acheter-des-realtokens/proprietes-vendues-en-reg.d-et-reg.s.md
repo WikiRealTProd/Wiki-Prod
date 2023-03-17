@@ -6,11 +6,11 @@ description: US et non-US
 
 Durant le troisième trimestre 2022, RealT a ouvert les ventes des propriétés aux "[investisseurs accrédités" US](https://spiegato.com/fr/quest-ce-quun-investisseur-accredite). Cette catégorie d'**investisseur US** est défini dans le **règlement D** du Security Act. Les **investisseurs non-US** étant eux régis par le **règlement S**.
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 La vingtaine de propriétés, vendues pendant cette période, ont été traitées de façon séparée suivant leur réglementation. Une proportion de l'ensemble des tokens de la propriété étant affectée à chacun des publics.
 
-<figure><img src="../../../.gitbook/assets/image (47).png" alt=""><figcaption><p>Répartition figurant sur la fiche de 11217 Beaconsfield St</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Répartition figurant sur la fiche de 11217 Beaconsfield St</p></figcaption></figure>
 
 Pour chacune de ces propriétés, il y a donc deux RealToken : un en Reg D et un en Reg S.
 
