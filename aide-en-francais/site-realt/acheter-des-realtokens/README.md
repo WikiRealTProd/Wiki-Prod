@@ -11,7 +11,7 @@ Les Tonkens de propriété RealT (RealToken) sont disponibles sur deux types de 
    * Vous pourrez ensuite, acheter vos RealTokens lors des ventes sur le site.\
      Deux types de ventes, peuvent se présenter :
      * pour de nouveaux RealTokens créés par RealT pour l'achat de nouveaux biens immobilier,
-     * pour des RealTokens déjà émis et [rachetés par RealT](../vendre-ses-realtokens.md), puis revendus (lors de "ventes sauvages"),
+     * pour des RealTokens déjà émis et [rachetés par RealT](../vendre-ses-realtokens.md) (ou la société émettrice), puis revendus (lors de "ventes sauvages"),
    * un contrat vous sera alors adressé, et après sa signature vous recevrez vos RealTokens.
 2. **Le marché Secondaire** ("de l'occasion"), qui s'exécute hors du site RealT (sur la Defi) :
    * Pour acquérir un RealToken, que vous ne possédez pas, vous devez au **préalable** **avoir été whitelisté** pour celui-ci ([_procédure_](../procedure-de-whitelisting.md)).
