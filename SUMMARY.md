@@ -11,6 +11,7 @@
       * [Paiement avec Coinbase Commerce](aide-en-francais/site-realt/acheter-des-realtokens/paiement-avec-coinbase-commerce.md)
       * [Achat/Paiement avec Smartphone](aide-en-francais/site-realt/acheter-des-realtokens/achat-paiement-avec-smartphone.md)
       * [Signature du contrat RealT](aide-en-francais/site-realt/acheter-des-realtokens/signature-du-contrat-realt.md)
+      * [Propriétés vendues en Reg.D et Reg.S ?](aide-en-francais/site-realt/acheter-des-realtokens/proprietes-vendues-en-reg.d-et-reg.s.md)
       * [Statut de vos commandes](aide-en-francais/site-realt/acheter-des-realtokens/statut-de-vos-commandes.md)
     * [Paramétrage RealT](aide-en-francais/site-realt/parametrage-realt.md)
     * [Walletless](aide-en-francais/site-realt/walletless.md)
