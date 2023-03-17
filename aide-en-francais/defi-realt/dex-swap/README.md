@@ -18,7 +18,7 @@ L'achat et la vente de RealTokens peuvent être effectués sur les solutions sui
 
 * Levinswap (peu de liquidité, en cours de décommissionnement ..),
 * [Swapcat](swapcat.md) (généralement utilisé derrière des Front-End communautaires)
-* [YAM ](yam.md)(développé par RealT : en cours de déploiement et d'ouverture en Open Source),
+* [YAM ](yam.md)(développé par RealT et mis en Open Source),
 * [1inch](swap-avec-1inch.md)
 
 Un [canal Telegram](https://t.me/RealTOTC) est dédié aux annonces d'offre en P2P
