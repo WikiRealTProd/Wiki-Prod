@@ -11,7 +11,7 @@ description: >-
 Une fois le RealToken créé et vendu (sur le site RealT), il peut ensuite s'échanger sur un marché "secondaire".
 
 {% hint style="info" %}
-Pour mémoire : Si vous souhaité acquérir un RealToken, que vous ne possédez pas déjà, vous devez au préalable vous [whitelister](../../site-realt/procedure-de-whitelisting.md) pour celui-ci.
+Pour mémoire : Si vous souhaité acquérir une propriété, que vous ne possédez pas déjà, vous devez au préalable vous [whitelister](../../site-realt/procedure-de-whitelisting.md) pour celle-ci.
 {% endhint %}
 
 L'achat et la vente de RealTokens peuvent être effectués sur les solutions suivantes :&#x20;
