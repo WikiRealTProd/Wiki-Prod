@@ -31,6 +31,7 @@ Tuto, réalisé par un membre de la communauté, sur le mode de fonctionnement d
 
 ## Videos sur l'usage du RMM&#x20;
 
+* [Community Call ](https://www.youtube.com/watch?v=r-8vWr-2pJM\&t=1362s\&ab\_channel=RealT)(Décembre 2020)
 * [CryptoFarmeur](https://www.youtube.com/watch?v=O6knU1h5PBk\&ab\_channel=CryptoFarmeur)
 * [InvestissementsFaciles](https://www.youtube.com/watch?v=jzHpillL5gI\&ab\_channel=InvestissementsFaciles)
 
