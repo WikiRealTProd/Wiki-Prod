@@ -12,13 +12,13 @@ Le paiement se fait en USDC ou xDAI, sur le réseau Gnosis.
 
 <figure><img src="../../../.gitbook/assets/image (84).png" alt=""><figcaption><p>Première option des modes de paiement</p></figcaption></figure>
 
-Vous disposez de 8 heures pour effectuer votre paiement avec [Request Finance](paiement-avec-request-finance.md).
+Vous disposez de 7 à 8 heures pour effectuer votre paiement avec [Request Finance](paiement-avec-request-finance.md).
 
 ## Avec Coinbase Commerce
 
 <figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption><p>Seconde option des modes de paiement</p></figcaption></figure>
 
-Ce mode de paiement ne nécessite pas de compte Coinbase.&#x20;
+Ce mode de paiement **ne nécessite pas de compte Coinbase**, Coinbase Commerce est un prestataire de paiement, comme Request Finance.
 
 De nombreuses monnaies et réseaux de paiement sont possibles :&#x20;
 
