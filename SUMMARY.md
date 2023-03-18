@@ -65,5 +65,5 @@
 
 ## .
 
-* [Telegram RealT Fr](https://t.me/RealT\_France)
+* [Telegram RealT "Welcome"](https://t.me/Realtoken\_welcome)
 * [Discord](https://discord.gg/SY4jrcmNVR)
