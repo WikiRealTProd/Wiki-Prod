@@ -20,6 +20,6 @@ Ces outils sont très pratiques pour suivre l'historique vos transactions (certe
 
 &#x20;                                              [https://zapper.xyz/fr](https://zapper.xyz/fr)&#x20;
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption><p>Onglet Asset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (58) (1).png" alt=""><figcaption><p>Onglet Asset</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption><p>Onglet Activité</p></figcaption></figure>

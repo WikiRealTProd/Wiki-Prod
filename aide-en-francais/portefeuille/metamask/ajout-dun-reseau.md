@@ -11,7 +11,7 @@ RealT supporte ce réseau, mais recommande l'usage de Gnosis (pour limiter les f
 
 * Vous pourrez visualiser l'ensemble des caractéristiques du réseau (dont le [RPC](modification-du-rpc.md)), avant l'approbation avec MetaMask&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (56) (1).png" alt=""><figcaption></figcaption></figure>
 
 Avec le site web ci-dessus, la méthode est très simple et automatique. Vous pouvez aussi faire cet ajout plus "manuellement" dans MetaMask :  avec la fonction ajout de réseau de MetaMask, puis compléter des infos demandées avec celles figurant dans l'image ci-dessus.
 

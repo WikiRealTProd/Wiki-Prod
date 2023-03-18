@@ -6,7 +6,7 @@ Après votre commande sur le site RealT, avec l'[option de paiement](mode-de-pai
 
 Request Finance vous adresse un mail, qui contient un lien pour accéder directement à votre facture :&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (69) (1).png" alt=""><figcaption></figcaption></figure>
 
 Si vous n'avez rien dans vos mails (SPAM inclus), vous pouvez aller directement sur le site [Request Finance](https://app.request.finance/login)
 

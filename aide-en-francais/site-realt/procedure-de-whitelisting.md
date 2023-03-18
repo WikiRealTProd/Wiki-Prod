@@ -26,7 +26,7 @@ La démarche se fait sur le site de [RealT](https://realt.co/) (et est disponibl
 
     &#x20;
 
-    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Compter 3 à 4 jours, pour que votre demande soit executée.
 

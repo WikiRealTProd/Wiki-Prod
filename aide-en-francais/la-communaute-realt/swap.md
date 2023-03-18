@@ -20,7 +20,7 @@ Les 3 sites ci-après, vérifient (via l'API RealT) que les tokens échangés ne
 
 &#x20;                         [https://marclanders.duckdns.org/](https://marclanders.duckdns.org/)
 
-<figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (91) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Site EHPST
 

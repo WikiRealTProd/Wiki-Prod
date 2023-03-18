@@ -6,7 +6,7 @@ description: à l'occasion d'une offre sur un bien RealT
 
 Fin 2022, RealT a reçu une [proposition](https://drive.google.com/file/d/1UhJBCzkcf92pseQpsaS-ayab5Vjs3eEA/view?\_hsmi=237160089&\_hsenc=p2ANqtz-9DKdHNQmKMnROK24vGVfHdirf1fadf8Ap4VnPKZPtNr82KNP07-TVDf-fZd82fGFoijV6l4RKoZpe6T7loPImmg3mVnA) à prix très avantageux pour la propriété [18983 Alcoy Ave, Detroit, MI 48205](https://realt.co/product/18983-alcoy-ave-detroit-mi-48205#tab-title-detokenization\_tab) : 88 K$ vs un achat à 53,5 K$ en avril 2021 (et une réévaluation à 65 K$ en Aout 2022).
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption><p>Onglet spécifique, de la fiche de la propriété</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (68) (2).png" alt=""><figcaption><p>Onglet spécifique, de la fiche de la propriété</p></figcaption></figure>
 
 Un vote on-chain a donc été organisé pour les propriétaires de ce RealToken, afin de statuer sur cette proposition :&#x20;
 
