@@ -62,7 +62,7 @@
     * [Swap](aide-en-francais/la-communaute-realt/swap.md)
   * [🍈 Annuaire](aide-en-francais/annuaire.md)
 
-## Untitled Group
+## .
 
 * [Telegram RealT Fr](https://t.me/RealT\_France)
 * [Discord](https://discord.gg/SY4jrcmNVR)
