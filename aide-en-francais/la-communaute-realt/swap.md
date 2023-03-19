@@ -16,7 +16,7 @@ Les 3 sites ci-après, vérifient (via l'API RealT) que les tokens échangés ne
 
 &#x20;                     [https://dashboard.realt.community/swapcat](https://dashboard.realt.community/swapcat)
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Pit'Swap&#x20;
 

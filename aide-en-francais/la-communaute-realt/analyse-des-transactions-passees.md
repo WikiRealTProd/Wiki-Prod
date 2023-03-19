@@ -1,4 +1,4 @@
-# Analyse des transactions passées
+# Analyse des transactions
 
 ##
 
@@ -20,14 +20,14 @@ Avec l'outil d'analyse suivant [https://yam.jycssu.fr/#/](https://yam.jycssu.fr/
 
 ### Les transactions par RealToken
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ### Les transactions par wallet, à l'achat, à la vente&#x20;
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Sur Swapcat
 
 Classées par RealToken ou par wallet acheteur : [https://swapcat.jycssu.fr/#/](https://swapcat.jycssu.fr/#/)
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>

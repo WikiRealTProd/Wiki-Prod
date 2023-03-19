@@ -1,4 +1,4 @@
-# Analyse des Propriétés
+# Analyse des propriétés
 
 ## Position géographique
 
@@ -15,6 +15,18 @@ A partir du site communautaire : [https://www.cryptalloc.com/realtsoon/](https:/
 * indiquer l'adresse (physique) de la propriété :thumbsup:
 
 <figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+
+## Site de Jeremy
+
+&#x20;                                              [https://yam.jycssu.fr/#/token](https://yam.jycssu.fr/#/token)
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+## Site Ehpst
+
+&#x20;                                   [https://ehpst.duckdns.org/realt\_rent\_tracker/](https://ehpst.duckdns.org/realt\_rent\_tracker/)
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Analyse préalable à la vente
 

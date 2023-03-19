@@ -21,19 +21,21 @@ particulièrement adaptés aux spécificités des RealToken&#x20;
     <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 
-*   Feuille Google Sheet
-
-    [https://docs.google.com/spreadsheets/d/1rkbnV3KgrNeIq9MUeKyWAjfiILndSxRtktjiwnWrDAw/edit#gid=1261122790](https://docs.google.com/spreadsheets/d/1rkbnV3KgrNeIq9MUeKyWAjfiILndSxRtktjiwnWrDAw/edit#gid=1261122790)\
-    Vous pouvez l'adapter à votre propre portefeuille, pour cela il suffit : \
-    &#x20; \- d'en faire une copie (onglet Fichiers, puis créer une copie),\
-    &#x20; \- remplacer chacune des lignes préexistantes, par : \
-    &#x20;      \- votre propriété (flèche des cellules de la colonne B),\
-    &#x20;      \- le nombre que vous possédez de cette propriété (colonne D),\
-    &#x20;      \- le prix d'achat de cette propriété (colonne F).\
-    &#x20; \- vous effacer ou copier des lignes, pour ajuster au nombre de propriété possédé.\
-    Ce tableur se mettra à jour automatiquement avec les données de RealT (et d'Alpha Omega pour la colonne N) et restera privé (puisque sur votre google drive).
+* Feuille Google Sheet : [https://docs.google.com/spreadsheets/d/1rkbnV3KgrNeIq9MUeKyWAjfiILndSxRtktjiwnWrDAw/edit#gid=1261122790](https://docs.google.com/spreadsheets/d/1rkbnV3KgrNeIq9MUeKyWAjfiILndSxRtktjiwnWrDAw/edit#gid=1261122790)\
+  Vous pouvez l'adapter à votre propre portefeuille, pour cela il suffit : \
+  &#x20; \- d'en faire une copie (onglet Fichiers, puis créer une copie),\
+  &#x20; \- remplacer chacune des lignes préexistantes, par : \
+  &#x20;      \- votre propriété (flèche des cellules de la colonne B),\
+  &#x20;      \- le nombre que vous possédez de cette propriété (colonne D),\
+  &#x20;      \- le prix d'achat de cette propriété (colonne F).\
+  &#x20; \- vous effacer ou copier des lignes, pour ajuster au nombre de propriété possédé.\
+  Ce tableur se mettra à jour automatiquement avec les données de RealT (et d'Alpha Omega pour la colonne N) et restera privé (puisque sur votre google drive).
 
 
+
+*   Site Ehpst : [https://ehpst.duckdns.org/realt\_rent\_tracker/holder](https://ehpst.duckdns.org/realt\_rent\_tracker/holder) avec possibilité de regrouper vos wallets
+
+    <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ## Application mobile&#x20;
 
