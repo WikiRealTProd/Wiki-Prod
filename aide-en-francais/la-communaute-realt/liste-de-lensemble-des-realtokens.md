@@ -22,17 +22,19 @@ A partir de cet API, un membre de la communauté met à disposition dans un goog
 
 
 
-## Version en ligne, avec activité on chain des RealToken
+## Version en ligne,&#x20;
 
-Avec le site suivant \
-&#x20;                     [https://yam.jycssu.fr/#/token](https://yam.jycssu.fr/#/token)
+Avec le site suivant  :   [https://yam.jycssu.fr/#/token](https://yam.jycssu.fr/#/token) , qui donne en plus accès aux 30 dernières transactions sur chaque RealToken
 
 <figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
-
-qui permet l'analyse des échanges par RealToken&#x20;
-
-<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
 ## via l'API RealT (pour les développeurs) :
 
 <figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+
+## Avec les Réévaluations
+
+L'API (dans sa version actuelle) ne donne pas d'informations sur les réévaluations. \
+Ci-après la liste faite par un membre de la communauté avec les réévaluations.
+
+{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vQQerMpXXo4rLh9VaHm5bGxNcC4XTG8diD4gnJ5r2a6t6cV5CWGMP4TZJPKyp9TjTzYWhWvcbYnHj6W/pubhtml?gid=0&single=true" %}

@@ -79,7 +79,7 @@ Prenons comme exemple le smart-contrat de la propriété, évoquée dans le chap
 
 Concernant le smart-contrat du Realtoken :&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 1. Nombre de RealToken pour cette propriété,
 2. Onglet pour accéder aux informations sur les wallets qui possèdent ce RealToken,

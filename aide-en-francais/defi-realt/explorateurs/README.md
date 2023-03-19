@@ -34,4 +34,4 @@ Cet identifiant unique, se trouve :
     <figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 *   vous voyez alors les Transaction hash des transactions que vous avez faites avec votre wallet
 
-    <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
