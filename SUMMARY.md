@@ -54,13 +54,13 @@
     * [RealT Wallet](aide-en-francais/portefeuille/realt-wallet.md)
     * [Ledger](aide-en-francais/portefeuille/ledger.md)
   * [🍩 La Communauté RealT](aide-en-francais/la-communaute-realt/README.md)
+    * [Sites d'échange (swap)](aide-en-francais/la-communaute-realt/swap.md)
     * [Liste des RealTokens d'un wallet](aide-en-francais/la-communaute-realt/liste-des-realtokens-dun-wallet.md)
     * [Liste de l'ensemble des RealTokens](aide-en-francais/la-communaute-realt/liste-de-lensemble-des-realtokens.md)
     * [Analyse des Propriétés](aide-en-francais/la-communaute-realt/analyse-des-proprietes.md)
-    * [Statistique sur RealT](aide-en-francais/la-communaute-realt/statistique-sur-realt.md)
     * [Analyse des investisseurs](aide-en-francais/la-communaute-realt/analyse-des-investisseurs.md)
-    * [Analyse des transactions passées](aide-en-francais/la-communaute-realt/analyse-des-transactions-passees.md)
-    * [Sites d'échange (swap)](aide-en-francais/la-communaute-realt/swap.md)
+    * [Analyse des transactions](aide-en-francais/la-communaute-realt/analyse-des-transactions-passees.md)
+    * [Statistique avec Dune](aide-en-francais/la-communaute-realt/statistique-sur-realt.md)
   * [🍈 Annuaire](aide-en-francais/annuaire.md)
 
 ## .
