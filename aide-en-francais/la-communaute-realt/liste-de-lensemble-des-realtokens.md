@@ -28,13 +28,15 @@ Avec le site suivant  :   [https://yam.jycssu.fr/#/token](https://yam.jycssu.fr/
 
 <figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
-## via l'API RealT (pour les développeurs) :
-
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
-
 ## Avec les Réévaluations
 
 L'API (dans sa version actuelle) ne donne pas d'informations sur les réévaluations. \
-Ci-après la liste faite par un membre de la communauté avec les réévaluations.
+Ci-après la liste, faite par un membre de la communauté, avec les réévaluations.
 
 {% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vQQerMpXXo4rLh9VaHm5bGxNcC4XTG8diD4gnJ5r2a6t6cV5CWGMP4TZJPKyp9TjTzYWhWvcbYnHj6W/pubhtml?gid=0&single=true" %}
+
+## via l'API RealT (pour les développeurs) :&#x20;
+
+&#x20;                                                           [https://api.realt.community/](https://api.realt.community/)
+
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
