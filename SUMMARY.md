@@ -60,7 +60,7 @@
     * [Statistique sur RealT](aide-en-francais/la-communaute-realt/statistique-sur-realt.md)
     * [Analyse des investisseurs](aide-en-francais/la-communaute-realt/analyse-des-investisseurs.md)
     * [Analyse des transactions passées](aide-en-francais/la-communaute-realt/analyse-des-transactions-passees.md)
-    * [Swap](aide-en-francais/la-communaute-realt/swap.md)
+    * [Sites d'échange (swap)](aide-en-francais/la-communaute-realt/swap.md)
   * [🍈 Annuaire](aide-en-francais/annuaire.md)
 
 ## .
