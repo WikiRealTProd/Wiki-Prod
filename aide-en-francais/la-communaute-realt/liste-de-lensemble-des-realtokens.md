@@ -24,7 +24,7 @@ A partir de cet API, un membre de la communauté met à disposition dans un goog
 
 ## Version en ligne,&#x20;
 
-Avec le site suivant  :   [https://yam.jycssu.fr/#/token](https://yam.jycssu.fr/#/token) , qui donne en plus accès aux 30 dernières transactions sur chaque RealToken
+Avec le site suivant  :   [https://yam.jycssu.fr/#/token](https://yam.jycssu.fr/#/token) , qui donne en plus accès aux dernières transactions YAM sur chaque RealToken
 
 <figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
