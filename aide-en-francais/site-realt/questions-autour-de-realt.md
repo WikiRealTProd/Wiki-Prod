@@ -27,6 +27,12 @@ Avant de poser votre question, faites déjà une recherche (loupe en haut à dro
 
 <figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Depuis l'évolution en mode groupe du Telegram, il faut pour voir les messages épinglés sur PC passer en mode "voir comme message"&#x20;
+
+&#x20;                                                  ![](<../../.gitbook/assets/image (8).png>)
+{% endhint %}
+
 ## Pour les développeurs
 
 Quelques adresses, plus spécifiques :

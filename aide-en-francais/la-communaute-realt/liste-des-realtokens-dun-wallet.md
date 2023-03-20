@@ -35,7 +35,7 @@ particulièrement adaptés aux spécificités des RealToken&#x20;
 
 *   Site [Ehpst](https://ehpst.duckdns.org/realt\_rent\_tracker/whitelist\_status) : avec possibilité de lister les propriétés sur lesquelles vous êtes Whitelisté.
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Application mobile&#x20;
 
