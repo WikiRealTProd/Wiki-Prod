@@ -28,10 +28,4 @@ A partir du site communautaire : [https://www.cryptalloc.com/realtsoon/](https:/
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-## Analyse préalable à la vente
-
-Sur de nombreux sites d'analyse d'investissements.
-
-* Alpha Omega : [https://t.me/alpha\_omega\_tech](https://t.me/alpha\_omega\_tech)
-* BluerSky : [https://t.me/marcbluersky](https://t.me/marcbluersky)
-* Investissments Faciles : [https://t.me/alert\_invest](https://t.me/alert\_invest)
+*
