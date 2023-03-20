@@ -33,12 +33,16 @@ particulièrement adaptés aux spécificités des RealToken&#x20;
 
 
 
-*   Site Ehpst : [https://ehpst.duckdns.org/realt\_rent\_tracker/holder](https://ehpst.duckdns.org/realt\_rent\_tracker/holder) avec possibilité de regrouper vos wallets
+*   Site [Ehpst](https://ehpst.duckdns.org/realt\_rent\_tracker/whitelist\_status) : avec possibilité de lister les propriétés sur lesquelles vous êtes Whitelisté.
 
-    <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Application mobile&#x20;
 
 RealT Explorer : sur[ IOS](https://apps.apple.com/fr/app/realt-explorer/id1532670717) ou [Android](https://play.google.com/store/apps/details?id=com.rubengaviles.realtexplorer\&hl=fr\&gl=US)
 
 Aucun risque dans l'utilisation de ces applications, elles fonctionnent comme un explorateur classique.
+
+## Avec l'explorateur
+
+[Analyse par wallet](analyse-des-investisseurs.md)

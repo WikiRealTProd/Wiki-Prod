@@ -1,4 +1,4 @@
-# Analyse des transactions
+# Analyse par transaction
 
 ##
 
@@ -31,3 +31,5 @@ Avec l'outil d'analyse suivant [https://yam.jycssu.fr/#/](https://yam.jycssu.fr/
 Classées par RealToken ou par wallet acheteur : [https://swapcat.jycssu.fr/#/](https://swapcat.jycssu.fr/#/)
 
 <figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
+
+Hors applications communautaires, vous pouvez aussi utiliser l['explorateur.](analyse-des-transactions-passees.md)
