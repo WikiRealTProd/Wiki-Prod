@@ -28,6 +28,6 @@ A partir du site communautaire : [https://www.cryptalloc.com/realtsoon/](https:/
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-*
+
 
 Hors applications communautaires, vous pouvez aussi utiliser[ l'explorateur.](analyse-des-proprietes.md)
