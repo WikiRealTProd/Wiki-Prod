@@ -16,7 +16,7 @@
     * [Paramétrage RealT](aide-en-francais/site-realt/parametrage-realt.md)
     * [Walletless](aide-en-francais/site-realt/walletless.md)
     * [Accès en 2FA à votre compte](aide-en-francais/site-realt/acces-en-2fa-a-votre-compte.md)
-    * [email hebdo de vos loyers](aide-en-francais/site-realt/rapport-hebdo-des-loyers/README.md)
+    * [Email hebdo de vos loyers](aide-en-francais/site-realt/rapport-hebdo-des-loyers/README.md)
       * [Sur Ethereum](aide-en-francais/site-realt/rapport-hebdo-des-loyers/sur-ethereum.md)
     * [Maison de réinvestissement](aide-en-francais/site-realt/maison-de-reinvestissement.md)
     * [Procédure de Whitelisting](aide-en-francais/site-realt/procedure-de-whitelisting.md)
