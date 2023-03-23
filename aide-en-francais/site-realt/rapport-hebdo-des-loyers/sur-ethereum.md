@@ -8,7 +8,7 @@ Ethereum est la blockchain utilisée à l'origine du projet RealT. La congestion
 
 RealT recommande l'usage du réseau Gnosis et prend à sa charge les frais correspondants.
 
-Sur Ethereum, à cause des frais, une processus de Claim est en place (dont les frais sont à la charge du holder):&#x20;
+Sur Ethereum, à cause des frais, un processus de Claim est en place (dont les frais sont à la charge du holder):&#x20;
 
 ## Claim pour la livraison des loyers sur Ethereum
 
