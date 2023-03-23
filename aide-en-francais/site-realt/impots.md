@@ -1,6 +1,6 @@
 # Impôts
 
-Il faut savoir que RealT n'a pas vocation à donner des conseils fiscaux (ils n'ont pas le droit !)
+Il faut savoir que RealT n'a pas vocation à donner des conseils fiscaux (ils n'ont pas le droit !).
 
 Rien ne remplacera le conseil d'un expert fiscaliste, mais si vous voulez en discuter, voici quelques groupes :&#x20;
 
