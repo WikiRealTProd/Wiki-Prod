@@ -14,3 +14,8 @@ Rien ne remplacera le conseil d'un expert fiscaliste, mais si vous voulez en dis
 {% hint style="warning" %}
 Ce ne sont pas des groupes RealT officiels, et le sérieux ou la véracité des discussions ne peuvent pas remplacer les conseils d'un VRAI fiscaliste.
 {% endhint %}
+
+Un état récapitulatif est disponible dans la partie document du site RealT
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
