@@ -44,4 +44,6 @@ Quelques adresses, plus spécifiques :
 
 ## Si vous n'avez pas trouvé de réponses
 
-Ecrivez à help@realt.co ou contacter le support du [site](https://realt.co/), via la petite bulle orange en bas à droite. <figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+Ecrivez à help@realt.co ou contacter le support du [site](https://realt.co/), via la petite bulle orange en bas à droite.
+
+<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
