@@ -5,7 +5,7 @@
 A l'aide du site communautaire suivant : \
 &#x20;                          [https://dashboard.realt.community/map](https://dashboard.realt.community/map)
 
-<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Historique d'une propriété
 

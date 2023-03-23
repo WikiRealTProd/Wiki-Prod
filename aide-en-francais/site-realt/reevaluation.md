@@ -12,7 +12,7 @@ Le montant d'achat (passé) du RealToken est inchangé, par contre le montant à
 
 Un nouvel onglet "Valuation", apparait sur la page de la propriété concernée :&#x20;
 
-<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption><p>Propriété 7430 Nett St</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption><p>Propriété 7430 Nett St</p></figcaption></figure>
 
 Vous voyez notamment l'évolution de la valeur du bien durant la période (Asset Valuation).\
 Dans l'exemple ci-dessus, la propriété achetée à l'origine à 70,5 K$ vaut en février 2023 : 83 K$. Soit une augmentation de 17,73% sur 584j, ou 11,09% par an.
