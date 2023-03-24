@@ -4,7 +4,7 @@ description: pour suivre leur avancement
 
 # Statut de vos commandes
 
-Visible dans la partie Order du site RealT
+Visible dans la partie Order du site RealT :
 
 <figure><img src="../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
