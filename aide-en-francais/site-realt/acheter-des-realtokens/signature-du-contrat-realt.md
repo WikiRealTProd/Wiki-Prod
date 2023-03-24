@@ -6,7 +6,7 @@ Le mail contient un lien pour accéder directement au contrat à signer sur le s
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Si le status de votre commande (onglet Order du site RealT) indique que le contrat a été envoyé et que vous n'avez rien dans vos mails (SPAM inclus), vous pouvez aller directement sur le site [DropboxSign](https://app.hellosign.com/)
+Si le statut de votre commande (onglet Order du site RealT) indique que le contrat a été envoyé et que vous n'avez rien dans vos mails (SPAM inclus), vous pouvez aller directement sur le site [DropboxSign](https://app.hellosign.com/)
 
 <figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
