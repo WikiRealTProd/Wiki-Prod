@@ -6,7 +6,7 @@ Avec le site de Jeremy, qui donne de multiples angles d'analyse :&#x20;
 
 ## Sur YAM
 
-### Le top 5, du mois en cour ou passé
+### Le top 5, du mois en cours ou passé
 
 Avec l'outil d'analyse suivant [https://yam.jycssu.fr/#/](https://yam.jycssu.fr/#/) qui donne le classement : par volume de Token, par wallet, par vendeur ou par acheteur,
 
