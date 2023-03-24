@@ -4,11 +4,11 @@ description: pour suivre leur avancement
 
 # Statut de vos commandes
 
-Visible dans la partie Order du site RealT :
+Visible dans la partie Order du site RealT
 
 <figure><img src="../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
-Les différents statuts sont :&#x20;
+Les différents statuts sont :
 
 * **Pending Contracts** : livraison en attente,
 * **Contracts sent** : contrat adressé à signer,
