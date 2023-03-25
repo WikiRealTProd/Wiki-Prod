@@ -29,6 +29,15 @@ Tuto, réalisé par un membre de la communauté, sur le mode de fonctionnement d
 
 {% file src="../../../.gitbook/assets/Tuto RMM v2.pdf" %}
 
+### Une <mark style="color:blue;background-color:orange;">nouvelle interface de l'application</mark> est en cours de test &#x20;
+
+* Accès sur l'environnement de test :  [https://staging-rmm.realtoken.network/](https://staging-rmm.realtoken.network/)
+* Tuto correspondant :
+
+{% file src="../../../.gitbook/assets/Tuto RMM v4.1.pdf" %}
+
+* Rapide démo lors du[ Community Call](https://youtu.be/Ej51XSb36B0?t=3603)
+
 ## Videos sur l'usage du RMM&#x20;
 
 * [Community Call ](https://www.youtube.com/watch?v=r-8vWr-2pJM\&t=1362s\&ab\_channel=RealT)(Décembre 2020)

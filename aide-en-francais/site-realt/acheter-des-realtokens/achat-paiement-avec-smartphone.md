@@ -17,25 +17,21 @@ A l'inverse de la version sur ordinateur (où Metamask est une extension de votr
 Parmi les 3 [modes de paiement](mode-de-paiement-realt.md), prenons la première option par [Request Finance](paiement-avec-request-finance.md).\
 (Pour un paiement via [Coinbase Commerce](paiement-avec-coinbase-commerce.md), c'est très simple puisque la page Coinbase vous donne le montant et le wallet vers lequel vous devez faire votre paiement)
 
-Pour un paiement Request Finance, avec votre smartphone et MetaMask (mobile), les étapes sont les suivantes :&#x20;
+Pour un paiement Request Finance, avec votre smartphone et MetaMask (mobile), les étapes sont les suivantes :
 
 1. Sur votre messagerie mobile, dans le mail de Request Finance : cliquer pour accéder à votre facture,
 2. Le navigateur de votre mobile va alors s'ouvrir sur le site de Request Finance (en précisant que l'application n'est pas "optimisée" sur mobile !),
-3. Ouvrir votre MetaMask mobile et le passer en mode navigateur (ce navigateur intégré  est différent de votre navigateur habituel sur mobile),
+3. Ouvrir votre MetaMask mobile et le passer en mode navigateur (ce navigateur intégré est différent de votre navigateur habituel sur mobile),
 4. Copier l'adresse (URL) du site Request Finance, qui s'est ouvert dans votre navigateur mobile habituel, et coller cette adresse dans le navigateur MetaMask,
 5. La même page s'ouvre alors dans le navigateur intégré MetaMask, appuyer sur Pay Now, et une fois le montant affiché à nouveau Pay Now,
 6. MetaMask va alors basculer automatiquement en mode Portefeuille, afin que vous puissiez signer la transaction (pour mémoire, nous sommes sur Gnosis il vous faut donc un peu de xDai pour les frais de transactions),
-7. MetaMask repasse en mode Navigateur et vous pouvez voir la confirmation de paiement du  site Request Finance.
+7. MetaMask repasse en mode Navigateur et vous pouvez voir la confirmation de paiement du site Request Finance.
 
 <details>
 
 <summary>Parcours en image (Paiment Request Finance avec MetaMask mobile)</summary>
 
-<img src="../../../.gitbook/assets/image (35).png" alt="" data-size="original">
-
-<img src="../../../.gitbook/assets/image (10) (1).png" alt="" data-size="original">
-
-<img src="../../../.gitbook/assets/image (54).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (35).png" alt="" data-size="original"> <img src="../../../.gitbook/assets/image (10) (1).png" alt="" data-size="original"> <img src="../../../.gitbook/assets/image (54).png" alt="" data-size="original">
 
 </details>
 
@@ -63,13 +59,6 @@ Sur votre smartphone, pour un paiement Request Finance avec [RealT Wallet](../..
 
 <summary>Parcours en image (Paiement Request Finance avec RealT Wallet)</summary>
 
-<img src="../../../.gitbook/assets/image (77).png" alt="" data-size="original">
-
-<img src="../../../.gitbook/assets/image (117).png" alt="" data-size="original">
-
-<img src="../../../.gitbook/assets/image (71).png" alt="" data-size="original">
-
-<img src="../../../.gitbook/assets/image (122).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (77).png" alt="" data-size="original"> <img src="../../../.gitbook/assets/image (117).png" alt="" data-size="original"> <img src="../../../.gitbook/assets/image (71).png" alt="" data-size="original"> <img src="../../../.gitbook/assets/image (122).png" alt="" data-size="original">
 
 </details>
-

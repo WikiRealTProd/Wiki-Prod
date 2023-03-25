@@ -6,7 +6,7 @@ description: le jeton et pré-jeton de gouvernance
 
 Le jeton SOON est la première étape vers un jeton de Gouvernance.
 
-Communication correpondante :&#x20;
+Communication correpondante :
 
 * [Community call](https://www.youtube.com/watch?v=YJGj2JcSu6c\&t=632s) de présentation et des mécanismes du token SOON,
 * [Article de présentation](https://medium.com/realtplatform-%C3%A9dition-fran%C3%A7aise/realt-inc-d%C3%A9voile-enfin-son-token-de-gouvernance-le-reg-58a046eabddb) sur le REG (Real Estate Gouvernance) et la future DAO
@@ -20,13 +20,11 @@ Vous pouvez vérifier en [ajoutant le token](../portefeuille/metamask/ajout-dun-
 Par le passé, RealT diffusait un fichier CSV avec l'ensemble des SOON distribués. Cette démarche s'est arrêtée en Août 2022 :
 
 * [https://drive.google.com/drive/folders/1dw5DfJo6R1zVXC6b\_Rjw1988X\_yBfpfv](https://drive.google.com/drive/folders/1dw5DfJo6R1zVXC6b\_Rjw1988X\_yBfpfv)
-*   La liste des SOON établie avec un [outil communautaire](https://www.cryptalloc.com/realtsoon/) se retrouve donc incomplète \
-    &#x20;                       &#x20;
-
+*   La liste des SOON établie avec un [outil communautaire](https://www.cryptalloc.com/realtsoon/) se retrouve donc incomplète\
 
 
     <figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
-Schéma, fait par un membre de la communauté, pour comprendre sans rentrer dans certains détails plus complexes.&#x20;
+Schéma, fait par un membre de la communauté, pour comprendre sans rentrer dans certains détails plus complexes.
 
 <figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
