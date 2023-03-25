@@ -47,7 +47,7 @@ En cliquant sur le Transaction Hash, apparait le niveau de détail suivant pour 
 
 <summary>Détails complémentaires </summary>
 
-![](<../../../.gitbook/assets/image (1) (1) (3).png>)
+![](<../../../.gitbook/assets/image (56).png>)
 
 1. Accessible en ouvrant la flèche en bas de la page,
 2. Fonction (Méthode) invoquée, lors de la transaction, sur le smart-contrat (YAM : BuywithPermit)

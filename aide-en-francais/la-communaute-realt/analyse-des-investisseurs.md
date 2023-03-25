@@ -4,7 +4,7 @@ Soit en donnant une(des) adresse(s) de wallet, soit à l'inverse en ayant un cla
 
 *   [https://ehpst.duckdns.org/realt\_rent\_tracker/](https://ehpst.duckdns.org/realt\_rent\_tracker/top\_holders)
 
-    <figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -15,7 +15,7 @@ Soit en donnant une(des) adresse(s) de wallet, soit à l'inverse en ayant un cla
 * [https://yam.jycssu.fr/#/](https://yam.jycssu.fr/#/)
   *   Top 5 des vendeurs et acheteurs du mois en cours ou passé sur YAM :&#x20;
 
-      <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
   *   Achat ou vente par wallet sur YAM
 
       <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>

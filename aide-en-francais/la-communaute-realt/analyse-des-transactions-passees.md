@@ -20,7 +20,7 @@ Avec l'outil d'analyse suivant [https://yam.jycssu.fr/#/](https://yam.jycssu.fr/
 
 ### Les transactions par RealToken
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ### Les transactions par wallet, à l'achat, à la vente&#x20;
 

@@ -16,7 +16,7 @@ Vous disposez de 7 à 8 heures pour effectuer votre paiement avec [Request Finan
 
 ## Avec Coinbase Commerce
 
-<figure><img src="../../../.gitbook/assets/image (8) (2).png" alt=""><figcaption><p>Seconde option des modes de paiement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption><p>Seconde option des modes de paiement</p></figcaption></figure>
 
 Ce mode de paiement **ne nécessite pas de compte Coinbase**, Coinbase Commerce est un prestataire de paiement, comme Request Finance.
 
