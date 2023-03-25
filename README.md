@@ -11,7 +11,7 @@ Les articles sont classés, dans le bandeau sur la gauche, mais le plus simple e
 En dernier ressort, vous pouvez solliciter le support ![](<.gitbook/assets/image (2).png>)
 
 {% hint style="info" %}
-Si vous souhaitez contribuer à ce Wiki communautaire, mettez juste un petit mot sur [Telegram](https://t.me/RealT\_France) ou passez par GitHub
+Si vous souhaitez contribuer à ce Wiki communautaire, mettez juste un petit mot sur [Telegram](https://t.me/RealT\_France) ou passez par GitHub :
 {% endhint %}
 
 {% file src=".gitbook/assets/Proposez des modifications via GitHub.pdf" %}
