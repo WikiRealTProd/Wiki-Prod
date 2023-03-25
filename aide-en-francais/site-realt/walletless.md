@@ -1,5 +1,5 @@
 ---
-description: ou comment commencer, de façon simplifiée..
+description: ou comment commencer, de façon simplifiée...
 ---
 
 # Walletless
@@ -12,7 +12,7 @@ Avec ce type de compte :&#x20;
 * Les achats se font exclusivement [par CB](acheter-des-realtokens/mode-de-paiement-realt.md),
 * Les applications Defi ([YAM](../defi-realt/dex-swap/yam.md), [RMM](../defi-realt/rmm/),..) nécessitant un wallet, ne seront pas accessibles.
 
-L'idée étant de commencer avec une solution la plus simple possible, d'apprendre à son propre rythme, voire de migrer de walletless à [wallet non-custodial](../portefeuille/).
+L'idée étant de commencer avec une solution la plus simple possible, d'apprendre à son propre rythme, pour ensuite migrer de walletless à [wallet non-custodial](../portefeuille/).
 
 &#x20;Article du [blog RealT sur ce sujet](https://realt.co/episode-7-en-route-vers-ladoption-de-masse-web-3-realt-continue-dinnover/).
 

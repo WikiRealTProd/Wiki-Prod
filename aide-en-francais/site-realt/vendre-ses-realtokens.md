@@ -21,7 +21,7 @@ Dans la partie Order du site RealT :&#x20;
 * **RealT must allow** : quand RealT doit approuver la vente,
 * **Waiting for token** : quand RealT attends le renvoi de token,
 * **RealT must confirm** : quand RealT doit confirmer le hash de renvoi,
-* **RealT must pay** : Quand RealT doit payer.
+* **RealT must pay** : quand RealT doit payer.
 
 {% hint style="info" %}
 Lorsque “RealT” rachète un token, c’est en fait l’émetteur (la series LLC ou la Inc. concernée) qui rachète le Token. Ceci engendre une administration assez lourde puisque le Token “revient” aux USA, aussi bien sur la taxation, que sur les enregistrements corporatifs obligatoires. Ça prend un certain temps.

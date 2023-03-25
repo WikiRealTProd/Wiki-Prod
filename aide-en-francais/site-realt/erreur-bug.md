@@ -1,5 +1,5 @@
 ---
-description: au cas ou..
+description: au cas ou...
 ---
 
 # Erreur, Bug
@@ -12,8 +12,8 @@ Si vous rencontrez ce genre de situation :&#x20;
 * Contacter le support via la bulle orange (en bas à droite du site) ou par mail (help@realt.co)\
   Indiquez le maximum d'informations sur la connexion :&#x20;
   * votre IP,
-  * le mail de votre compte realt,
-  * si vous utilisez des bots sur le site realt,
+  * le mail de votre compte Realt,
+  * si vous utilisez des bots sur le site Realt,
   * le navigateur,
   * le système d'exploitation,
   * ...

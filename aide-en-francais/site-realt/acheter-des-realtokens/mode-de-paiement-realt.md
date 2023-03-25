@@ -4,7 +4,7 @@ description: après avoir rempli votre caddie d'achat..
 
 # Modes de paiement RealT
 
-Trois mode de paiement sont disponibles, pour vos achats sur le site RealT :
+Trois modes de paiement sont disponibles, pour vos achats sur le site RealT :
 
 ## Avec Request Finance&#x20;
 
@@ -46,5 +46,5 @@ Depuis le 15 Février 2023 et pour une durée de 3 mois, RealT ne facture pas de
 Pensez aux frais de change (selon votre banque) avant d'acheter avec une C.B.
 
 {% hint style="info" %}
-Les compte RealT en [mode "WalletLess"](../walletless.md) ne peuvent utiliser que le mode de paiement par Carte Bancaire.
+Les comptes RealT en [mode "WalletLess"](../walletless.md) ne peuvent utiliser que le mode de paiement par Carte Bancaire.
 {% endhint %}

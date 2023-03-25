@@ -6,9 +6,9 @@ description: procédure spécifique de livraison sur cette blockchain
 
 Ethereum est la blockchain utilisée à l'origine du projet RealT. La congestion et les frais sur ce réseau ont conduit RealT à ajouter la blockchain Gnosis.
 
-RealT recommande l'usage du réseau Gnosis et prend à sa charge les frais correspondants.
+RealT recommande l'usage du réseau Gnosis et prend à sa charge les frais de transaction correspondants.
 
-Sur Ethereum, à cause des frais, un processus de Claim est en place (dont les frais sont à la charge du holder):&#x20;
+Sur Ethereum, à cause des frais, un processus de Claim (réclamation) est en place (dont les frais sont à la charge du holder):&#x20;
 
 ## Claim pour la livraison des loyers sur Ethereum
 
