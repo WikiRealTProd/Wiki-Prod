@@ -15,7 +15,7 @@ RealT a fait les publications suivantes, à l'occasion du lancement :&#x20;
 * [https://medium.com/realtplatform-%C3%A9dition-fran%C3%A7aise/limmobilier-une-nouvelle-fois-boulvers%C3%A9-par-realt-f53332f0e211](https://medium.com/realtplatform-%C3%A9dition-fran%C3%A7aise/limmobilier-une-nouvelle-fois-boulvers%C3%A9-par-realt-f53332f0e211)
 * [https://www.youtube.com/watch?v=vM08S73cCRI\&ab\_channel=RealT](https://www.youtube.com/watch?v=vM08S73cCRI\&ab\_channel=RealT)
 
-<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Dans un premier temps : \
@@ -25,16 +25,9 @@ Dans un premier temps : \
 
 ## Présentation détaillée&#x20;
 
-Tuto, réalisé par un membre de la communauté, sur le mode de fonctionnement du RMM, ainsi que quelques aspects techniques et financiers :
+Tuto, réalisé par un membre de la communauté, sur le mode de fonctionnement du RMM, ainsi que quelques aspects techniques et financiers (version 4 avec la nouvelle interface) :
 
-{% file src="../../../.gitbook/assets/Tuto RMM v2.pdf" %}
-
-### Une <mark style="color:blue;background-color:orange;">nouvelle interface de l'application</mark> est en cours de test &#x20;
-
-* Accès sur l'environnement de test :  [https://staging-rmm.realtoken.network/](https://staging-rmm.realtoken.network/)
-* Tuto correspondant :
-
-{% file src="../../../.gitbook/assets/Tuto RMM v4.1.pdf" %}
+{% file src="../../.gitbook/assets/Tuto RMM v4.1.pdf" %}
 
 * Rapide démo lors du[ Community Call](https://youtu.be/Ej51XSb36B0?t=3603)
 
