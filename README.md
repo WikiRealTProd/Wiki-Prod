@@ -12,7 +12,7 @@ Cet espace permet le partage entre investisseurs dans la solution [https://realt
 
 Les articles sont classés, dans le bandeau sur la gauche, mais le plus simple est peut-être d'utiliser l'outil de recherche (en haut à droite) pour trouver réponses à vos questions ...
 
-En dernier ressort, vous pouvez solliciter le support ![](<.gitbook/assets/image (2) (3).png>)
+En dernier ressort, vous pouvez solliciter le support ![](<.gitbook/assets/image (2) (4).png>)
 
 {% hint style="info" %}
 Si vous souhaitez contribuer à ce Wiki communautaire, mettez juste un petit mot sur [Telegram](https://t.me/RealT\_France) ou passez par GitHub :

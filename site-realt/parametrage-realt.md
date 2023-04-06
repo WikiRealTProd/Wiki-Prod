@@ -24,7 +24,9 @@ Vous pouvez modifier :
 
 <figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
-Si votre wallet est sur Gnosis, vous pouvez modifier la monnaie dans laquelle seront payés vos loyers : USDC ou xDai (et prochainement en [armmWXDAI](../defi-realt/rmm/))
+Si votre wallet est sur Gnosis, vous pouvez modifier la monnaie dans laquelle seront payés vos loyers : USDC, xDAI  ou armmWXDAI (preuve de dépôts de xDAI sur le [RMM](../defi-realt/rmm/))
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## A partir de l'onglet Account Details
 
@@ -34,4 +36,4 @@ Si votre wallet est sur Gnosis, vous pouvez modifier la monnaie dans laquelle se
 
 <figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
-Une fois l'option de réception d'un email de paiement des loyers cochée, vous recevrez chaque semaine (lundi en fin de journée) un rapport détaillé sur le paiement de la semaine précédente ([_détail_](rapport-hebdo-des-loyers/)\_\_[_s_](rapport-hebdo-des-loyers/))
+Une fois l'option de réception d'un email de paiement des loyers cochée, vous recevrez chaque semaine (lundi en fin de journée) un rapport détaillé sur le paiement de la semaine précédente ([_détail_](rapport-hebdo-des-loyers/)[_s_](rapport-hebdo-des-loyers/))
