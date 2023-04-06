@@ -15,7 +15,7 @@ RealT a fait les publications suivantes, à l'occasion du lancement :&#x20;
 * [https://medium.com/realtplatform-%C3%A9dition-fran%C3%A7aise/limmobilier-une-nouvelle-fois-boulvers%C3%A9-par-realt-f53332f0e211](https://medium.com/realtplatform-%C3%A9dition-fran%C3%A7aise/limmobilier-une-nouvelle-fois-boulvers%C3%A9-par-realt-f53332f0e211)
 * [https://www.youtube.com/watch?v=vM08S73cCRI\&ab\_channel=RealT](https://www.youtube.com/watch?v=vM08S73cCRI\&ab\_channel=RealT)
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>RMM avec la nouvelle interface</p></figcaption></figure>
 
 {% hint style="info" %}
 Dans un premier temps : \
@@ -27,15 +27,14 @@ Dans un premier temps : \
 
 Tuto, réalisé par un membre de la communauté, sur le mode de fonctionnement du RMM, ainsi que quelques aspects techniques et financiers (version 4 avec la nouvelle interface) :
 
-{% file src="../../.gitbook/assets/Tuto RMM v4.1.pdf" %}
-
-* Rapide démo lors du[ Community Call](https://youtu.be/Ej51XSb36B0?t=3603)
+{% file src="../../.gitbook/assets/Tuto RMM v4.2.pdf" %}
 
 ## Videos sur l'usage du RMM&#x20;
 
 * [Community Call ](https://www.youtube.com/watch?v=r-8vWr-2pJM\&t=1362s\&ab\_channel=RealT)(Décembre 2020)
 * [CryptoFarmeur](https://www.youtube.com/watch?v=O6knU1h5PBk\&ab\_channel=CryptoFarmeur)
 * [InvestissementsFaciles](https://www.youtube.com/watch?v=jzHpillL5gI\&ab\_channel=InvestissementsFaciles)
+* Rapide démo de la nouvelle interface, lors du[ Community Call](https://youtu.be/Ej51XSb36B0?t=3603)
 
 ## Pour en savoir plus Aave
 
@@ -57,4 +56,4 @@ Etapes :&#x20;
 * Janvier 2023 : [Proposition de RealT ](https://governance.aave.com/t/deploy-the-rmm-v2-with-the-aave-v3-version/11249)sur le Forum de gouvernance d'Aave,
 * Février : [Proposition](https://governance.aave.com/t/arfc-proposal-for-deploying-whitelabel-aave-v3-market-for-realt-tokens-on-gnosischain/11897) d'usage d'Aave v3 en marque blanche pour le RMM,
 * Mars : [Vote](https://snapshot.org/#/aave.eth/proposal/0xff69be7580614ebc1a455591c1bd651d8f0af12070d277d7d8846beb3c7c964b),
-* [Community call du 9 Mars](https://www.youtube.com/watch?v=Csfsqg6tFuU\&ab\_channel=RealT) lors duquel Marc Zller est intervenu.
+* [Community call du 9 Mars](https://www.youtube.com/watch?v=Csfsqg6tFuU\&ab\_channel=RealT) lors duquel Marc Zeller est intervenu.
