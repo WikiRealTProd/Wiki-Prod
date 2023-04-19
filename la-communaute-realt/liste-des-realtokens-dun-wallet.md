@@ -21,7 +21,7 @@ particulièrement adaptés aux spécificités des RealToken&#x20;
     <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 
-* Feuille Google Sheet : [https://docs.google.com/spreadsheets/d/1rkbnV3KgrNeIq9MUeKyWAjfiILndSxRtktjiwnWrDAw/edit#gid=1261122790](https://docs.google.com/spreadsheets/d/1rkbnV3KgrNeIq9MUeKyWAjfiILndSxRtktjiwnWrDAw/edit#gid=1261122790)\
+* Feuille Google Sheet : [https://docs.google.com/spreadsheets/d/1DBa8TZzxbQStjEg8-K_CR-dcuTQQaWub2x7BC5rAYwY/](https://docs.google.com/spreadsheets/d/1DBa8TZzxbQStjEg8-K_CR-dcuTQQaWub2x7BC5rAYwY/)\
   Vous pouvez l'adapter à votre propre portefeuille, pour cela il suffit : \
   &#x20; \- d'en faire une copie (onglet Fichiers, puis créer une copie),\
   &#x20; \- remplacer chacune des lignes préexistantes, par : \
