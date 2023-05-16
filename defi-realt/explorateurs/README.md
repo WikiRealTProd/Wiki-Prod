@@ -11,10 +11,11 @@ Vous pouvez vous servir des explorateurs de chain, pour en savoir plus sur : &#x
 
     * par exemple, pour [ajouter un jeton sur Metamask](../../portefeuille/metamask/ajout-dun-token.md) : trouver l'adresse de l'USDC sur gnosis :&#x20;
 
-    <figure><img src="../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
     * ou pour analyser de plus près un des smart-contrats de RealT..
-* une **transaction**, qu'elle date d'une seconde ou des années, pour avoir son statut (en cours, succès, échec), vérifier si vous avez envoyé vers le bon réseau, la bonne adresse...
+* une **transaction**, qu'elle date (d'une seconde ou des années), pour avoir son statut (en cours, succès, échec), vérifier si vous avez envoyé vers le bon réseau, la bonne adresse...
+* un **token**, pour par exemple savoir qui le possède, quand il vous a été envoyé, ..
 
 ## Explorateurs :&#x20;
 
@@ -28,10 +29,10 @@ Cet identifiant unique, se trouve :
 
 *   en allant sur l'explorateur (de la chaine sur laquelle vous avez  le soucis) en indiquant dans la partie recherche l'adresse de votre wallet :
 
-    <figure><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 *   soit, en cliquant sur les trois petit point de votre wallet  MetaMask
 
-    <figure><img src="../../../.gitbook/assets/image (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 *   vous voyez alors les Transaction hash des transactions que vous avez faites avec votre wallet
 
-    <figure><img src="../../../.gitbook/assets/image (5) (2) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (2) (1).png" alt=""><figcaption></figcaption></figure>

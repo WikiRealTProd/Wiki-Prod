@@ -15,7 +15,7 @@ RealT a fait les publications suivantes, à l'occasion du lancement :&#x20;
 * [https://medium.com/realtplatform-%C3%A9dition-fran%C3%A7aise/limmobilier-une-nouvelle-fois-boulvers%C3%A9-par-realt-f53332f0e211](https://medium.com/realtplatform-%C3%A9dition-fran%C3%A7aise/limmobilier-une-nouvelle-fois-boulvers%C3%A9-par-realt-f53332f0e211)
 * [https://www.youtube.com/watch?v=vM08S73cCRI\&ab\_channel=RealT](https://www.youtube.com/watch?v=vM08S73cCRI\&ab\_channel=RealT)
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>RMM avec la nouvelle interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>RMM avec la nouvelle interface</p></figcaption></figure>
 
 {% hint style="info" %}
 Dans un premier temps : \

@@ -9,11 +9,11 @@ Un conseil, avant de commencer : Entraînez vous avec votre propre wallet...\
 Vous savez quelles actions vous avez effectuées, donc si vous ne savez pas à quoi correspondent certains termes, le fait que ce soit votre wallet vous comprendrez mieux :wink:
 {% endhint %}
 
-## Analyser un wallet
+## Analyse d'un wallet
 
 Pour l'exemple, nous allons prendre un des[ gros wallet RealT](../../la-communaute-realt/analyse-des-investisseurs.md).
 
-<figure><img src="../../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
 1. Zone de recherche, dans laquelle vous allez copier l'adresse du wallet,
 2. après recherche, l'explorateur confirme l'addresse analysée,
@@ -32,7 +32,7 @@ Pour l'exemple, nous allons prendre un des[ gros wallet RealT](../../la-communau
 
 En cliquant sur le Transaction Hash, apparait le niveau de détail suivant pour une transaction (qui est ici un achat de RealToken sur  [YAM](../dex-swap/yam.md)) :&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 1. Transaction Hash,
 2. Statut de la transaction,
@@ -47,7 +47,7 @@ En cliquant sur le Transaction Hash, apparait le niveau de détail suivant pour 
 
 <summary>Détails complémentaires </summary>
 
-![](<../../../.gitbook/assets/image (1) (1) (3).png>)
+![](<../../.gitbook/assets/image (56).png>)
 
 1. Accessible en ouvrant la flèche en bas de la page,
 2. Fonction (Méthode) invoquée, lors de la transaction, sur le smart-contrat (YAM : BuywithPermit)
@@ -62,9 +62,9 @@ En cliquant sur le Transaction Hash, apparait le niveau de détail suivant pour 
 
 Prenons comme exemple le smart-contrat de la propriété, évoquée dans le chapitre précédent.
 
-<figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 1. Adresse du smart-contrat qui gère les RelaToken de la propriété,
 2. Onglet pour accéder au détail du contrat,
@@ -72,16 +72,20 @@ Prenons comme exemple le smart-contrat de la propriété, évoquée dans le chap
 4. Informations du contrat interrogeable (en lecture),\
    Par exemple, la quantité de ce token dans un\
    &#x20;wallet (celui du chapitre précédent) : \
-   ![](<../../../.gitbook/assets/image (4) (1).png>)
+   ![](<../../.gitbook/assets/image (4) (1).png>)
 5. Sélection pour modifier le contrat,\
    Il faudra alors vous connecter avec un wallet, pour approuver les modifications.
 6. Adresse des RealTokens correspondants à cette propriété
 
 Concernant le smart-contrat du Realtoken :&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 1. Nombre de RealToken pour cette propriété,
 2. Onglet pour accéder aux informations sur les wallets qui possèdent ce RealToken,
 3. Nombre de wallet qui détiennent ce RealToken,
 4. Adresse des wallets qui détiennent ce RealToken avec la quantité.
+
+## Analyse d'un Token
+
+Par exemple, pour le token SOON : pour voir [l'historique de vos versements](../../site-realt/reg-soon/historique-de-vos-soon.md).
