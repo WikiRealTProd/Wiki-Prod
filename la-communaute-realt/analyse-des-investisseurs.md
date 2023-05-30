@@ -23,5 +23,7 @@ Soit en donnant une(des) adresse(s) de wallet, soit à l'inverse en ayant un cla
 
       <figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
-Hors applications communautaires, vous pouvez aussi utiliser [l'explorateur](analyse-des-investisseurs.md)[.](../defi-realt/explorateurs/)
+Hors applications communautaires, vous pouvez aussi utiliser[ l'explorateur.](../defi-realt/explorateurs/)
+
+
 
