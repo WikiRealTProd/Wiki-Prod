@@ -16,13 +16,15 @@ Onglet My Account, puis Portfolio, partie Properties :
 
 particulièrement adaptés aux spécificités des RealToken
 
-*   Site Web&#x20;
+*   Site Web :
 
     * Nouveau (6/7/2023) : [https://dashboard.realt.community/](https://dashboard.realt.community/)
 
 
 
     <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
 
     * Ancien : [https://old.dashboard.realt.community/](https://old.dashboard.realt.community/) (prochainement disponible)
 
