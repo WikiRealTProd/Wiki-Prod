@@ -2,8 +2,8 @@
 
 ## Position géographique
 
-A l'aide du site communautaire suivant :\
-[https://dashboard.realt.community/map](https://dashboard.realt.community/map)
+A l'aide du site communautaire suivant : \
+https://dashboard.realt.community/map (plus disponible)
 
 <figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 

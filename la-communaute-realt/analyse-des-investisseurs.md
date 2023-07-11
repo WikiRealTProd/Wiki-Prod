@@ -9,7 +9,7 @@ Soit en donnant une(des) adresse(s) de wallet, soit à l'inverse en ayant un cla
 
 
 
-*   [https://dashboard.realt.community/rank](https://dashboard.realt.community/rank)
+*   https://dashboard.realt.community/rank (plus disponible)
 
     <figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 * [https://yam.jycssu.fr/#/](https://yam.jycssu.fr/#/)
