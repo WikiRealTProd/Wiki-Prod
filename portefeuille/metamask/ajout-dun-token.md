@@ -18,15 +18,12 @@ Il faut au préalable avoir [installé le réseau Gnosis](ajout-dun-reseau.md) s
 *   La méthode automatique : avec le site [Coinmarketcap en recherchant l'USDC](https://coinmarketcap.com/fr/currencies/usd-coin/), en cliquant "more" , puis sur le renard du réseau souhaité (xDai/Gnosis) et l'ajout se fait..
 
     <figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
-*   La méthode manuelle (qui va vous servir aussi pour ajouter un RealToken) :&#x20;
+* La méthode manuelle (qui va vous servir aussi pour ajouter un RealToken) :&#x20;
+  1. Sur MetaMask : Sélectionnez l'onglet "Tokens",
+  2. Faites défiler vers le bas et cliquez sur "Importer des jetons",
+  3. Indiquer l'adresse du jeton (que vous trouvez par ex. en tapant "adresse USDC Gnosis" sur Google ou sur [l'explorateur](../../defi-realt/explorateurs/) : soit 0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83 )
 
-    1. Sur MetaMask : Sélectionnez l'onglet Actifs (vs Activité),
-    2. Faites défiler vers le bas et cliquez sur Importer des jetons,
-    3. Indiquer l'adresse du jeton (que vous trouvez par ex. en tapant "adresse USDC Gnosis" sur Google ou sur [l'explorateur](../../defi-realt/explorateurs/) : soit 0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83
-
-
-
-
+<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
 ## Ajout d'un RealToken
 
