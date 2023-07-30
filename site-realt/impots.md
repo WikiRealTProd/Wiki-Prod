@@ -17,4 +17,4 @@ Ce ne sont pas des groupes RealT officiels, et le sérieux et la véracité des 
 
 Un état récapitulatif est disponible dans la partie document du site RealT.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>

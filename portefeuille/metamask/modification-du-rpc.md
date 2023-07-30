@@ -11,12 +11,9 @@ Lorsqu'il y a congestion sur cette passerelle, il peut être nécessaire de modi
 Pour ce faire :&#x20;
 
 * Il faut sélectionner le réseau (ici Gnosis), aller dans paramètres,
+*   Sélectionner la partie réseaux, puis Gnosis et modifier l'URL du RPC
 
-<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
-
-* Slectionner la partie réseau, et modifier l'URL du RPC
-*
-* &#x20;
+    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 * Pour trouver des URL de RPC pour Gnosis : [https://chainlist.org/chain/100](https://chainlist.org/chain/100)
 
 <figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
