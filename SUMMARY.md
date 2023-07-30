@@ -51,6 +51,7 @@
     * [Ajout d'un réseau](portefeuille/metamask/ajout-dun-reseau.md)
     * [Ajout d'un token](portefeuille/metamask/ajout-dun-token.md)
     * [Modification du RPC](portefeuille/metamask/modification-du-rpc.md)
+    * [Version Mobile](portefeuille/metamask/version-mobile.md)
   * [RealT Wallet](portefeuille/realt-wallet.md)
   * [Ledger](portefeuille/ledger.md)
 * [🍩 La Communauté RealT](la-communaute-realt/README.md)

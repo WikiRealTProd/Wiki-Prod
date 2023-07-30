@@ -15,7 +15,7 @@ RealT supporte ce réseau, mais recommande l'usage de Gnosis (pour limiter les f
 
 Avec le site web ci-dessus, la méthode est très simple et automatique. Vous pouvez aussi faire cet ajout plus "manuellement" dans MetaMask :  avec la fonction ajout de réseau de MetaMask, puis compléter des infos demandées avec celles figurant dans l'image ci-dessus.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Pour ajouter le réseau Polygon
 
