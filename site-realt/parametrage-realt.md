@@ -26,7 +26,7 @@ Vous pouvez modifier :
 
 Si votre wallet est sur Gnosis, vous pouvez modifier la monnaie dans laquelle seront payés vos loyers : USDC, xDAI  ou armmWXDAI (preuve de dépôts de xDAI sur le [RMM](../defi-realt/rmm/))
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 ## A partir de l'onglet Account Details
 

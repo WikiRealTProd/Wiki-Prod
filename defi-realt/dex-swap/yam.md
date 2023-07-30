@@ -31,7 +31,7 @@ Le code est disponible sur le GitHub de RealT :&#x20;
 * [pour l'interface](https://github.com/real-token/realtoken-yam-interface)
 * [pour la partie "core"](https://github.com/real-token/realtoken-yam-core)
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Les contributions doivent être faites avec l'outil GitHub et la procédure de Pull Request
 
