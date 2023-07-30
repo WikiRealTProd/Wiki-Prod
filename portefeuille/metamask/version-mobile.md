@@ -12,4 +12,4 @@ Pour accéder à une application Web3, qui necessitera une identification avec v
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Dans le chapitre dédié aux achats de RealTokens, il y a un exemple [d'achat sur mobile](../../site-realt/acheter-des-realtokens/achat-paiement-avec-smartphone.md) étape par étape, avec l'application Request Finance.
+Nota : Dans le chapitre dédié aux achats de RealTokens, il y a un exemple [d'achat avec MetaMask mobile](../../site-realt/acheter-des-realtokens/achat-paiement-avec-smartphone.md) étape par étape, avec l'application Request Finance.
