@@ -4,9 +4,13 @@ description: pour suivre leur avancement
 
 # Statut de vos commandes
 
+
+
+## Commande d'achat de RealTokens
+
 Visible dans la partie Order du site RealT
 
-<figure><img src="../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 Les différents statuts sont :
 
@@ -19,4 +23,6 @@ Les différents statuts sont :
 * **Pending Payment** : quand vous ne payez pas tout de suite sur Coinbase ou qu'il y a un problème de CB,
 * **Needs refund** : quand la commande va être annulée et remboursée.
 
-Pour [les statuts de commande](../vendre-ses-realtokens.md) de vente à RealT de vos RealTokens.
+## Commande de vente de RealTokens
+
+Pour [les statuts des ventes ](../vendre-ses-realtokens.md)à RealT de vos RealTokens.
