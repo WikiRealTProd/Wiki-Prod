@@ -11,6 +11,6 @@ Le site [ehpst](https://ehpst.duckdns.org/realt\_rent\_tracker/top\_tokens\_byho
 L'atteinte de cette limite, peut conduire :&#x20;
 
 * A l'impossibilité de se faire [whitelister](procedure-de-whitelisting.md) sur cette propriété,
-* Voir, se faire déwhitelister, pour les holders qui ne possèderaient aucun token de  cette propriété
+* Voir, se faire déwhitelister, pour les holders qui ne possèderaient aucun token de  cette propriété.
 
 Cette limite ne s'applique que sur les propriétés US.
