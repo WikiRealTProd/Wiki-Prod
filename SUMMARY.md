@@ -17,6 +17,7 @@
   * [Accès en 2FA à votre compte](site-realt/acces-en-2fa-a-votre-compte.md)
   * [Email hebdo de vos loyers](site-realt/rapport-hebdo-des-loyers/README.md)
     * [Loyers sur Ethereum](site-realt/rapport-hebdo-des-loyers/sur-ethereum.md)
+  * [Variation des loyers](site-realt/variation-des-loyers.md)
   * [Maison de réinvestissement](site-realt/maison-de-reinvestissement.md)
   * [Procédure de Whitelisting](site-realt/procedure-de-whitelisting.md)
   * [Réévaluation](site-realt/reevaluation.md)
