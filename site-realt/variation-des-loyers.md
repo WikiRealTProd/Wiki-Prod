@@ -30,7 +30,7 @@ A l'été 2024 (période des renouvellement des baux), RealT à engagé un "ratt
 
 [Community Call du 11 juillet 2023](https://www.youtube.com/watch?v=huHRKAuqhkc\&ab\_channel=RealT) détaillant ce sujet.
 
-Pour limiter les reventes des propriétés non louées, des "frais de vacance" ont été ajoutés par RealT sur ses rachats de Realtokens (conduisant à une baisse de la valeur de rachat sur le marché primaire et secondaire)
+Pour limiter les reventes des propriétés non louées, des "[frais de vacance](vendre-ses-realtokens.md)" ont été ajoutés par RealT sur ses rachats de Realtokens (conduisant à une baisse de la valeur de rachat sur le marché primaire et secondaire)
 
 Exemple d'impact financier, de l'absence de loyers : \
 &#x20;    Cas de [Troy](https://realt.co/product/1115-s-troy-st-chicago-il-60612#tab-title-financials\_tab), pour lequel pour lequel 3 appartements sur 7 sont vides.\
