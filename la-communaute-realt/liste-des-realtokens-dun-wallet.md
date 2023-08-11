@@ -16,24 +16,11 @@ Onglet My Account, puis Portfolio, partie Properties :
 
 particulièrement adaptés aux spécificités des RealToken
 
-*   Site Web :
-
-    * Nouveau (6/7/2023) : [https://dashboard.realt.community/](https://dashboard.realt.community/)
+*   Site Web : (version depuis Juillet 2023) [https://dashboard.realt.community/](https://dashboard.realt.community/)
 
 
 
     <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
-
-
-
-    * Ancien : [https://old.dashboard.realt.community/](https://old.dashboard.realt.community/) (prochainement disponible)
-
-
-
-    <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
-
-
-
 * Feuille Google Sheet : [https://docs.google.com/spreadsheets/d/1DBa8TZzxbQStjEg8-K\_CR-dcuTQQaWub2x7BC5rAYwY/](https://docs.google.com/spreadsheets/d/1DBa8TZzxbQStjEg8-K\_CR-dcuTQQaWub2x7BC5rAYwY/)\
   Vous pouvez l'adapter à votre propre portefeuille, pour cela il suffit :\
   \- d'en faire une copie (onglet Fichiers, puis créer une copie),\
@@ -42,13 +29,14 @@ particulièrement adaptés aux spécificités des RealToken
   \- le nombre que vous possédez de cette propriété (colonne D),\
   \- le prix d'achat de cette propriété (colonne F).\
   \- vous effacer ou copier des lignes, pour ajuster au nombre de propriété possédé.\
-  Ce tableur se mettra à jour automatiquement avec les données de RealT (et d'Alpha Omega pour la colonne N) et restera privé (puisque sur votre google drive).
-
-
+  Ce tableur se mettra à jour automatiquement avec les données de RealT (et d'Alpha Omega pour la colonne N) et restera privé (puisque sur votre google drive).\
 
 *   Site [Ehpst](https://ehpst.duckdns.org/realt\_rent\_tracker/whitelist\_status) : avec possibilité de lister les propriétés sur lesquelles vous êtes Whitelisté.
 
     <figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+*   Site [CrypT'Alloc](https://www.cryptalloc.com/realtsoon/) avec la fonction Collection&#x20;
+
+    <figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
 ## Application mobile
 
