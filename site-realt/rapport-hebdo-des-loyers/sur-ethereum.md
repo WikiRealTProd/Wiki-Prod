@@ -12,12 +12,9 @@ Sur Ethereum, à cause des frais, un processus de Claim (réclamation) est en pl
 
 ## Claim pour la livraison des loyers sur Ethereum
 
-<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption><p>Partie Rent de l'onglet Portfolio</p></figcaption></figure>
-
 Sut Ethereum, les loyers sont versés en USDC. Les propriétaires doivent activer un Smart Contract pour retirer les USDC vers leur adresse. Les Loyers s'accumulent dans le "coffre-fort" jusqu'à ce que vous les retiriez.
 
-
+<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 ## Claim pour la livraison des propriétés sur Ethereum :
 
-<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption><p>Partie Properties de l'onglet Portfolio</p></figcaption></figure>
