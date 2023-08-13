@@ -9,7 +9,7 @@ En septembre 2022, RealT a introduit un nouveau type de compte pour les nouveaux
 Avec ce type de compte :
 
 * L'accès à l'application RealT est obligatoirement en [2FA](acces-en-2fa-a-votre-compte.md),
-* Les achats se font exclusivement [par CB](acheter-des-realtokens/mode-de-paiement-realt.md),
+* Les achats se font exclusivement [par CB](acheter-des-realtokens/mode-de-paiement-realt.md) (ou solde crypto),
 * Les applications Defi ([YAM](../defi-realt/dex-swap/yam.md), [RMM](../defi-realt/rmm/),..), nécessitant votre propre wallet, ne sont pas accessibles,
 * le transfert des loyers vers votre compte bancaire sera prochainement disponible (\*).
 
