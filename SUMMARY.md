@@ -12,7 +12,7 @@
     * [Signature du contrat RealT](site-realt/acheter-des-realtokens/signature-du-contrat-realt.md)
     * [Statut de vos commandes](site-realt/acheter-des-realtokens/statut-de-vos-commandes.md)
     * [Propriétés vendues en Reg.D et Reg.S ?](site-realt/acheter-des-realtokens/proprietes-vendues-en-reg.d-et-reg.s.md)
-  * [Paramétrage RealT](site-realt/parametrage-realt.md)
+  * [Paramétrage compte RealT](site-realt/parametrage-realt.md)
   * [Option Walletless](site-realt/walletless.md)
   * [Accès en 2FA à votre compte](site-realt/acces-en-2fa-a-votre-compte.md)
   * [Email hebdo de vos loyers](site-realt/rapport-hebdo-des-loyers/README.md)
