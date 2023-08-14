@@ -4,11 +4,11 @@ description: Valeurs modifiables sur le site
 
 # Paramétrage RealT
 
-## A partir de l'onglet Portfolio
+## Onglet Portfolio
 
 <figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
-## Pour les Wallets
+### Section Wallets
 
 <figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -20,7 +20,7 @@ Vous pouvez modifier :
 * Si vos RealTokens sont sur Ledger ([_procédure_](../securite/passer-vos-realtokens-sur-ledger.md)) et vos loyers sur Metamask, vous aurez deux adresses différentes (c'est ce qui apparaît dans "registered wallets" ci-dessus).
 * Lorsque vous whitelistez des RealTokens ([_procédure_](procedure-de-whitelisting.md)), ils le sont alors pour les deux adresses.\\
 
-## Pour les Loyers
+### Section Rent
 
 <figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
@@ -28,7 +28,7 @@ Si votre wallet est sur Gnosis, vous pouvez modifier la monnaie dans laquelle se
 
 <figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
-## A partir de l'onglet Account Details
+## Onglet Account Details
 
 <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
