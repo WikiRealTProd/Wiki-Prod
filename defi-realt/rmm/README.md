@@ -25,9 +25,12 @@ Dans un premier temps : \
 
 ## Présentation détaillée&#x20;
 
-Tuto, réalisé par un membre de la communauté, sur le mode de fonctionnement du RMM, ainsi que quelques aspects techniques et financiers (version 4 avec la nouvelle interface) :
+Tuto, réalisé par un membre de la communauté, sur le mode de fonctionnement du RMM, ainsi que quelques aspects techniques et financiers (version 4 avec la nouvelle interface) :\
 
-{% file src="../../.gitbook/assets/Tuto RMM v4.2.pdf" %}
+
+<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+
+{% file src="../../.gitbook/assets/Tuto RMM v4.3.pdf" %}
 
 ## Videos sur l'usage du RMM&#x20;
 
