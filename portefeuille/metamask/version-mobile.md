@@ -10,6 +10,6 @@ Pour accéder à une application Web3, qui necessitera une identification avec v
 * Entrer l'url de l'application (ou selectionner une application précédement mise en favori, ex ici 1inch, YAM, RMM, Request..),
 * L'identification se fait alors automatiquement.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nota : Dans le chapitre dédié aux achats de RealTokens, il y a un exemple [d'achat avec MetaMask mobile](../../site-realt/acheter-des-realtokens/achat-paiement-avec-smartphone.md) étape par étape, avec l'application Request Finance.

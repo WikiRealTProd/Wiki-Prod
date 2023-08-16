@@ -1,8 +1,8 @@
 ---
-description: Pour changer de blockchain
+description: Pour transférer vos cryptos d'une blockchain à une autre.
 ---
 
-# Bridge
+# Bridge Crypto
 
 Il existe beaucoup de blockchain, donc beaucoup de bridge !. Nous allons nous limiter ici aux bridges connectés à la chain Gnosis, utilisée (/recommandée) par RealT.&#x20;
 

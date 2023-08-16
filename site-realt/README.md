@@ -1,5 +1,5 @@
 ---
-description: Pour vos questions, sur le site lui même ...
+description: Pour vos questions, sur le site web lui même ...
 ---
 
 # 🍪 Site RealT
