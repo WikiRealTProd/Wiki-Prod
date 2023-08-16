@@ -1,5 +1,5 @@
 ---
-description: Pour emprunter, avec des RealTokens en garantie.
+description: Pour emprunter, avec des RealTokens en garantie, et/ou prêter des xDai.
 ---
 
 # RMM
