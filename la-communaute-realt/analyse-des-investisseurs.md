@@ -18,7 +18,7 @@ Soit en donnant une(des) adresse(s) de wallet, soit à l'inverse en ayant un cla
       <figure><img src="../.gitbook/assets/image (2) (3) (1).png" alt=""><figcaption></figcaption></figure>
   *   Achat ou vente par wallet sur YAM
 
-      <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
   *   Par vendeur sur Swapcat
 
       <figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>

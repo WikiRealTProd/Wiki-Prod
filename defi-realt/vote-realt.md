@@ -8,7 +8,7 @@ Afin d'obtenir la position des actionnaires, concernant une décision impactant 
 
 Le premier utilisation en production, s'est faite fin 2022 pour la [détokenisation d'Alcoy](../site-realt/detokenisation-dune-propriete.md).
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 Un snapshot des token holders est réalisé avant l'annonce du vote (afin d'éviter les potentiels achats pour augmenter le pouvoir de vote), et transmis au contrat de vote.
 

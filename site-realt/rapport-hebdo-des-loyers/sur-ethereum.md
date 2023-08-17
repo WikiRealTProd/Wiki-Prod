@@ -20,4 +20,4 @@ Sut Ethereum, les loyers sont versés en USDC. Les propriétaires doivent active
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Nota : Il sera possible prochainement d'obtenir la livraison des RealTokens sur une chaine différente (Gnosis).
+Nota : Il sera possible prochainement d'obtenir la livraison des RealTokens [sur une chaine différente (Gnosis)](../../defi-realt/bridge-realtokens-realt/bridge-integre-au-claim.md).
