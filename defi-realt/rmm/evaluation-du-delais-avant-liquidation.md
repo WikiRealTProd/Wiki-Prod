@@ -1,17 +1,18 @@
----
-description: cf question sur Telegram..
----
+# La liquidation
 
-# Evaluation du délais avant liquidation
+Le mécanisme de Liquidation garantie le bon fonctionnement du RMM. \
+Lorsque le collatéral d'un wallet n'est plus suffisant pour garantir ses emprunts, il passe automatiquement en mode liquidation (cf détail dans le [tuto](./)).\
+Un liquidateur peut alors acheter, avec une décote, tout ou partie du collatéral du wallet en liquidation, le paiement servant à rembourser l'emprunt.
 
-Le mécanisme de Liquidation garantie le bon fonctionnement du RMM. Il est ouvert à tout les wallets whitelistés (cf [tuto](./)). Ce peut être une autre façon d'acquérir des RealToken avec réduction.\
+La liquidation est ouverte à tout les wallets whitelistés. Ce peut être une autre façon d'acquérir des RealTokens avec réduction.
 
+La liste des Wallets proches de la liquidation, est accessible dans un des [onglets du RMM](https://liquidation.rmm.realt.community/). Lorsque vous voyez un Health Factor très proche de 1, il peut être intéressant d'évaluer le moment de la liquidation (si le wallet reste inactif!)
 
-La liste des Wallet proches de la liquidation, est accessible dans un des [onglets du RMM](https://liquidation.rmm.realt.community/). Lorsque vous voyez un Health Factor très proche de 1, il peut être intéressant d'évaluer le moment de la liquidation (si le wallet reste inactif!)
+## Evaluation du moment de liquidation
 
 Prenons l'exemple suivant :
 
-<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 Pour calculer le délais avant liquidation, il faut disposer de deux informations sur le wallet :
 

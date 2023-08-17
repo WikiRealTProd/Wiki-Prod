@@ -33,7 +33,7 @@
 * [🍬 Defi RealT](defi-realt/README.md)
   * [Achat Crypto](defi-realt/achat-crypto.md)
   * [RMM (RealT)](defi-realt/rmm/README.md)
-    * [Evaluation du délais avant liquidation](defi-realt/rmm/evaluation-du-delais-avant-liquidation.md)
+    * [La liquidation](defi-realt/rmm/evaluation-du-delais-avant-liquidation.md)
   * [Dex de Swap](defi-realt/dex-swap/README.md)
     * [YAM (RealT)](defi-realt/dex-swap/yam.md)
     * [Swapcat](defi-realt/dex-swap/swapcat.md)
