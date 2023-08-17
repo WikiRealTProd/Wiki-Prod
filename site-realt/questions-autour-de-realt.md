@@ -25,12 +25,12 @@ Vous pouvez rejoindre la communauté sur [Telegram](https://t.me/RealT\_France)
 
 Avant de poser votre question, faites déjà une recherche (loupe en haut à droite), car une question similaire a peut-être déjà été traitée sur le groupe. Sans oublier les messages importants, qui sont épinglés.
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Depuis l'évolution en mode groupe du Telegram, il faut, pour voir les messages épinglés sur PC, passer en mode "voir comme message"&#x20;
+Depuis l'évolution en mode groupe du Telegram, il faut, pour voir les messages épinglés sur PC, passer en mode "voir comme message"
 
-&#x20;                                                  ![](<../../.gitbook/assets/image (8).png>)
+<img src="../.gitbook/assets/image (8) (1).png" alt="" data-size="original">
 {% endhint %}
 
 ## Pour les développeurs
@@ -46,4 +46,4 @@ Quelques adresses, plus spécifiques :
 
 Ecrivez à help@realt.co ou contacter le support du [site](https://realt.co/), via la petite bulle orange en bas à droite.
 
-<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>

@@ -8,7 +8,7 @@ Afin d'obtenir la position des actionnaires, concernant une décision impactant 
 
 Le premier utilisation en production, s'est faite fin 2022 pour la [détokenisation d'Alcoy](../site-realt/detokenisation-dune-propriete.md).
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Un snapshot des token holders est réalisé avant l'annonce du vote (afin d'éviter les potentiels achats pour augmenter le pouvoir de vote), et transmis au contrat de vote.
 
@@ -16,4 +16,4 @@ Les personnes concernés sont prévenus par RealT et peuvent voter en se connect
 
 Le poids de chaque actionnaire ainsi que sa participation, est visible sur l'application :
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

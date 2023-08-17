@@ -2,7 +2,7 @@
 description: Pour emprunter, avec des RealTokens en garantie, et/ou prêter des xDai.
 ---
 
-# RMM
+# RMM (RealT)
 
 ## Introduction
 
@@ -15,7 +15,7 @@ RealT a fait les publications suivantes, à l'occasion du lancement :&#x20;
 * [https://medium.com/realtplatform-%C3%A9dition-fran%C3%A7aise/limmobilier-une-nouvelle-fois-boulvers%C3%A9-par-realt-f53332f0e211](https://medium.com/realtplatform-%C3%A9dition-fran%C3%A7aise/limmobilier-une-nouvelle-fois-boulvers%C3%A9-par-realt-f53332f0e211)
 * [https://www.youtube.com/watch?v=vM08S73cCRI\&ab\_channel=RealT](https://www.youtube.com/watch?v=vM08S73cCRI\&ab\_channel=RealT)
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>RMM avec la nouvelle interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>RMM avec la nouvelle interface</p></figcaption></figure>
 
 {% hint style="info" %}
 Dans un premier temps : \

@@ -18,7 +18,7 @@ Article de la base de support RealT [sur le sujet](https://faq.realt.co/en/artic
 
 Depuis le 11 juillet 2023, dans le cas particulier de propriétés sans locataire : des frais complémentaires sont appliqués par RealT sur leurs rachats (5%, au prorata de la proportion non louée)
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Statuts de vos commandes de vente
 

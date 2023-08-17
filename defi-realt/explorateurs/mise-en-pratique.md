@@ -72,7 +72,7 @@ Prenons comme exemple le smart-contrat de la propriété, évoquée dans le chap
 4. Informations du contrat interrogeable (en lecture),\
    Par exemple, la quantité de ce token dans un\
    &#x20;wallet (celui du chapitre précédent) : \
-   ![](<../../.gitbook/assets/image (4) (1).png>)
+   ![](<../../.gitbook/assets/image (4) (1) (2).png>)
 5. Sélection pour modifier le contrat,\
    Il faudra alors vous connecter avec un wallet, pour approuver les modifications.
 6. Adresse des RealTokens correspondants à cette propriété

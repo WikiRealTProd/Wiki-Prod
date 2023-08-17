@@ -13,7 +13,7 @@ Avec ce type de compte :
 * Les applications Defi ([YAM](../defi-realt/dex-swap/yam.md), [RMM](../defi-realt/rmm/),..), nécessitant votre propre wallet, ne sont pas accessibles,
 *   le transfert des loyers vers votre compte bancaire sera prochainement disponible (\*).
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 L'objectif est de permettre de commencer avec une solution simple, d'apprendre à son propre rythme, pour ensuite migrer de walletless à [wallet non-custodial](../portefeuille/).
 

@@ -22,7 +22,7 @@ Avec l'outil d'analyse suivant [https://yam.jycssu.fr/#/](https://yam.jycssu.fr/
 
 ### Les transactions par wallet, à l'achat, à la vente
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Sur Swapcat
 

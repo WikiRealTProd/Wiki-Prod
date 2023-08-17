@@ -2,7 +2,7 @@
 description: procédure spécifique de livraison sur cette blockchain
 ---
 
-# Loyers sur Ethereum
+# Procédure de Claim sur Ethereum
 
 Ethereum est la blockchain utilisée à l'origine du projet RealT. La congestion et les frais sur ce réseau ont conduit RealT à ajouter la blockchain Gnosis.
 
@@ -18,6 +18,6 @@ Sut Ethereum, les loyers sont versés en USDC. Les propriétaires doivent active
 
 ## Claim pour la livraison des propriétés sur Ethereum :
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nota : Il sera possible prochainement d'obtenir la livraison des RealTokens sur une chaine différente (Gnosis).
