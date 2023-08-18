@@ -1,4 +1,4 @@
-# Les armmWXDAI..
+# L'armmWXDAI..
 
 Au départ, l’armmWXDAI est une simple preuve de dépôt de XDAI sur le [RMM](./).
 
@@ -8,7 +8,7 @@ Au départ, l’armmWXDAI est une simple preuve de dépôt de XDAI sur le [RMM](
 <mark style="color:blue;">**Qui peut l’utiliser ? : Tout le monde**</mark>, pas besoin d’être whitelisté chez RealT, il suffit d’aller sur le RMM, se connecter avec son wallet, déposer ses XDAI (ou WXDAI, variante au format ERC20) et vous recevez en échange des armmWXDAI.
 
 <mark style="color:blue;">**Combien ça rapporte ?**</mark> : c’est variable dans le temps.. il suffit d’aller sur le [RMM](https://rmm.realtoken.network/) (onglet marché, puis actif XDAI) et vous voyez l’historique (jusqu’à 1 an) du taux de dépôt (Supply APR).\
-C’est généralement un peu plus qu’ailleurs pour du XDAI (sauf offre promotionnelle temporaire), car le RMM est encore peu connu et la demande de prêt est souvent supérieur au montant disponible ce qui fait augmenter le taux de dépôt.
+C’est généralement un peu plus qu’ailleurs pour du XDAI (sauf offre promotionnelle temporaire), car le RMM est encore peu connu et son taux d'utilisation assez élevé ce qui fait augmenter le taux des dépôts.
 
 <mark style="color:blue;">**Que puis je faire de mes armmWXDAI ?**</mark> :
 
