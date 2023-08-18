@@ -20,4 +20,4 @@ C’est généralement un peu plus qu’ailleurs pour du XDAI (sauf offre promot
 * les <mark style="color:blue;">**convertir**</mark> en XDAI ou WXDAI : sur le site RMM, en les retirant du dépôt,
 * ...
 
-<mark style="color:blue;">**Est-ce risqué ?**</mark> : le risque 0 n’existe pas, là on bénéficie de la solidité du protocole AAVE (fondation du RMM) : qui existe depuis 2017, avec des contrats audités et un mécanisme de garanties.
+<mark style="color:blue;">**Est-ce risqué ?**</mark> : bien évidement le risque 0 n’existe pas, mais là on bénéficie de la solidité du protocole AAVE (fondation du RMM) : qui existe depuis 2017, avec des contrats audités et un mécanisme de garanties.
