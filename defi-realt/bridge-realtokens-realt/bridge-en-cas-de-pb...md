@@ -16,7 +16,7 @@ La seconde étape la plus complexe est celle du Claim (Bridge de Gnosis vers Eth
     Une procédure pour annuler totalement le bridge et se faire restituer le realtoken sur la chaine source, est alors a mis à disposition dans l'historique via le statut "Help".\
 
 
-    <figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
     Une fois réalisée, le statut de l'opération de Bridge sera "Recovered"
 

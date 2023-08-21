@@ -2,10 +2,12 @@
 
 ## Position géographique
 
-A l'aide du site communautaire suivant : \
-https://dashboard.realt.community/map (plus disponible)
+A l'aide du site communautaire suivant :&#x20;
 
-<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+* https://dashboard.realt.community/map (plus disponible)
+*   [google map](https://www.google.fr/maps/d/edit?mid=1SKl3ZGu53HF7ys7ON8f5snpu9fiT7GM\&usp=sharing) (à partir d'infos de l'API) :
+
+    <figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption><p><a href="https://www.google.com/maps/d/edit?mid=1SKl3ZGu53HF7ys7ON8f5snpu9fiT7GM&#x26;ll=21.70919644887816%2C-82.68870000000001&#x26;z=4">https://www.google.com/maps/d/edit?mid=1SKl3ZGu53HF7ys7ON8f5snpu9fiT7GM&#x26;ll=21.70919644887816%2C-82.68870000000001&#x26;z=4</a></p></figcaption></figure>
 
 ## Historique d'une propriété
 
