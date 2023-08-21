@@ -18,6 +18,6 @@ Sut Ethereum, les loyers sont versés en USDC. Les propriétaires doivent active
 
 ## Claim pour la livraison des propriétés sur Ethereum :
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nota : Il sera possible prochainement d'obtenir la livraison des RealTokens [sur une chaine différente (Gnosis)](../../defi-realt/bridge-realtokens-realt/bridge-integre-au-claim.md).
