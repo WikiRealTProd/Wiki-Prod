@@ -41,3 +41,7 @@ Avec un seul type de RealToken en collatéral, la liquidation pourrait aller jus
 
 Ce montant pourrait être bien moindre, si le collatéral avait été réparti sur de multiples types de RealTokens (la liquidation se faisant RealToken par RealToken, jusqu’à HF > 1)
 {% endhint %}
+
+## Liquidations effectuées
+
+{% embed url="https://docs.google.com/spreadsheets/d/1Kgtxbv3HB3_ofBVIXu4952mApm2qcgkEXhvwN40Gy2g/edit?usp=sharing" %}
