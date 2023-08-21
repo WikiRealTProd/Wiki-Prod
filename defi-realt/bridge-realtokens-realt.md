@@ -8,9 +8,9 @@ Les Realtokens sont actuellement disponibles sur les deux blockchaines Ethereum 
 
 Dans le cas particulier des (37) premières propriétés, vendues en 2019/2020, disponibles uniquement sur Ethereum et dont le nom est suffixé OLD-... : RealT a proposé la migration vers de nouveaux smart contrat (disponibles sur les deux chaines) :&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption><p>Exemple de message sur la fiche technique d'un token </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption><p>Exemple de message sur la fiche technique d'un token OLD</p></figcaption></figure>
 
-Dans ce cas, si entre temps vous aviez changé de chaine de livraison (Ethereum vers Gnosis), alors l'opération de bridge a été inclus dans ce changement de contrat.
+...dans ce cas, si entre temps vous aviez changé de chaine de livraison (Ethereum vers Gnosis), alors l'opération de bridge a été inclus dans ce changement de contrat.
 
 En dehors de ce cas particulier, les transferts sont traités ponctuellement et manuellent par RealT.
 
