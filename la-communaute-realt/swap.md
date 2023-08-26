@@ -12,7 +12,7 @@ Les 2 sites ci-après, vérifient (via l'API RealT) que les tokens échangés ne
 
 ## Pit'Swap
 
-[https://pitswap.netlify.app](https://pitswap.netlify.app) (anciennement: [https://marclanders.duckdns.org](https://marclanders.duckdns.org))
+[https://pitswap.netlify.app](https://pitswap.netlify.app)&#x20;
 
 <figure><img src="../.gitbook/assets/image (91) (1).png" alt=""><figcaption></figcaption></figure>
 
