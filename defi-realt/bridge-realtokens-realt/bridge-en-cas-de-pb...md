@@ -23,4 +23,4 @@ Le cas le plus complexe, est celui d'un brige de Gnosis vers Ethereum, qui néce
 
     Une fois réalisée, le statut de l'opération de Bridge sera "Recovered"
 
-    <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>

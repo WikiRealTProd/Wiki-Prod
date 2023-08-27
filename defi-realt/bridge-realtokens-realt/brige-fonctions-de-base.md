@@ -33,8 +33,10 @@ Transférer vos RealTokens d'une chaine à une autre, avec ce Bridge, est assez 
     <figure><img src="../../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure>
 
     * Pour transférer le Realtoken vers votre wallet sur Ethereum (Claim),&#x20;
-      * vous devez au préalable vous mettre sur Ethereum (sinon il y aura demande de changement de chaine, suivi d'un message d'erreur...),
-        * vous devez valider la transaction avec les frais correspondants (à votre charge),
-        *   la transaction apparaitra dans l'historique avec le statut  "Réclamé"
+      * vous devez au préalable vous mettre sur Ethereum (sinon il y aura une demande de changement de chaine, suivi d'un message d'erreur...),
+      * vous devez valider la transaction avec les frais correspondants (à votre charge),
+      *   la transaction apparaitra dans l'historique avec le statut  "Réclamé"
 
-            <figure><img src="../../.gitbook/assets/image (12).png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+          <figure><img src="../../.gitbook/assets/image (12).png" alt="" width="563"><figcaption></figcaption></figure>
