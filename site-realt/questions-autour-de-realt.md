@@ -30,7 +30,7 @@ Avant de poser votre question, faites déjà une recherche (loupe en haut à dro
 {% hint style="info" %}
 Depuis l'évolution en mode groupe du Telegram, il faut, pour voir les messages épinglés sur PC, passer en mode "voir comme message"
 
-<img src="../.gitbook/assets/image (8) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (8) (1) (1).png" alt="" data-size="original">
 {% endhint %}
 
 ## Pour les développeurs

@@ -26,7 +26,7 @@ De nombreuses monnaies et réseaux de paiement sont possibles :
 * BTC, BCH, LTC, DOGE chacun sur son propre réseau,
 * et MATIC, USDC et WETH sur réseau Polygon,
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Extrait page de paiement Coinbase Commerce</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Extrait page de paiement Coinbase Commerce</p></figcaption></figure>
 
 Vous disposez d'1 heure pour effectuer votre paiement avec Coinbase Commerce.
 

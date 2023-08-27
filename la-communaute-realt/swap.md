@@ -26,4 +26,4 @@ Les 2 sites ci-après, vérifient (via l'API RealT) que les tokens échangés ne
 
 https://dashboard.realt.community/swapcat (**plus disponible**)
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

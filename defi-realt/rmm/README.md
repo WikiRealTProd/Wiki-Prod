@@ -15,7 +15,7 @@ RealT a fait les publications suivantes, à l'occasion du lancement :&#x20;
 * [https://medium.com/realtplatform-%C3%A9dition-fran%C3%A7aise/limmobilier-une-nouvelle-fois-boulvers%C3%A9-par-realt-f53332f0e211](https://medium.com/realtplatform-%C3%A9dition-fran%C3%A7aise/limmobilier-une-nouvelle-fois-boulvers%C3%A9-par-realt-f53332f0e211)
 * [https://www.youtube.com/watch?v=vM08S73cCRI\&ab\_channel=RealT](https://www.youtube.com/watch?v=vM08S73cCRI\&ab\_channel=RealT)
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>RMM avec la nouvelle interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>RMM avec la nouvelle interface</p></figcaption></figure>
 
 {% hint style="info" %}
 Dans un premier temps : \
@@ -28,7 +28,7 @@ Dans un premier temps : \
 Tuto, réalisé par un membre de la communauté, sur le mode de fonctionnement du RMM, ainsi que quelques aspects techniques et financiers (version 4 avec la nouvelle interface) :\
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% file src="../../.gitbook/assets/Tuto RMM v4.3.pdf" %}
 

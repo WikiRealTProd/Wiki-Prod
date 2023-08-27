@@ -16,4 +16,4 @@ Les personnes concernés sont prévenus par RealT et peuvent voter en se connect
 
 Le poids de chaque actionnaire ainsi que sa participation, est visible sur l'application :
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
