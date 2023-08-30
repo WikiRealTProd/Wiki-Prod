@@ -11,7 +11,7 @@ Pour ce faire, vous devrez :&#x20;
 * vous connecter, via le bouton "Connect Wallet", sur votre adresse sur Ethereum,&#x20;
 *   puis claimer l'ensemble des propriétés disponibles&#x20;
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="552"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="552"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Le frais induits par ce mode opératoire, sont bien plus faible que si vous faites les deux opérations séparément : claim, puis bridge.

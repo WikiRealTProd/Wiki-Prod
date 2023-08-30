@@ -19,6 +19,6 @@ Elle utilise la même technologie de base que [OmniBridge](https://omnibridge.gn
 
 **Application actuellement en phase de test :**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Comment l'utiliser ....
