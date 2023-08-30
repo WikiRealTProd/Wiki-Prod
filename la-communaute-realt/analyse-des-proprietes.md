@@ -5,10 +5,10 @@
 A l'aide du site communautaire suivant :&#x20;
 
 * https://dashboard.realt.community/map (plus disponible),
-*   avec [OpenStreetMap](http://realt1234.chickenkiller.com/), pour votre propre wallet (ou toutes les propriétés), les couleurs indiquant le niveau de location (rouge=0, vert=100%, orange=partielle) :
+*   avec [OpenStreetMap](http://realt1234.chickenkiller.com/), pour votre propre wallet (ou toutes les propriétés), les couleurs indiquent le niveau de location (rouge=0, vert=100%, orange=partiel) :
 
     <figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
-*   ou [google map](https://www.google.fr/maps/d/edit?mid=1SKl3ZGu53HF7ys7ON8f5snpu9fiT7GM\&usp=sharing) (à partir des localisations transmisent par l'API) :
+*   ou [google map](https://www.google.fr/maps/d/edit?mid=1SKl3ZGu53HF7ys7ON8f5snpu9fiT7GM\&usp=sharing) (à partir des localisations données par l'API) :
 
     <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption><p><a href="https://www.google.com/maps/d/edit?mid=1SKl3ZGu53HF7ys7ON8f5snpu9fiT7GM&#x26;ll=21.70919644887816%2C-82.68870000000001&#x26;z=4">https://www.google.com/maps/d/edit?mid=1SKl3ZGu53HF7ys7ON8f5snpu9fiT7GM&#x26;ll=21.70919644887816%2C-82.68870000000001&#x26;z=4</a></p></figcaption></figure>
 
