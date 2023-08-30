@@ -12,7 +12,7 @@ Dans le cas particulier des (37) premières propriétés, vendues en 2019/2020, 
 
 ...dans ce cas, si entre temps vous aviez changé de chaine de livraison (Ethereum vers Gnosis), alors l'opération de bridge a été inclus dans ce changement de contrat.
 
-En dehors de ce cas particulier, les transferts de vos RealTokens (d'Ethereum vers Gnosis) sont traités ponctuellement et manuellent par RealT.
+En dehors de ce cas particulier, les transferts de vos RealTokens (d'Ethereum vers Gnosis) sont traités ponctuellement et manuellement par RealT.
 
 Une application de Bridge, spécifique aux RealTokens, est en cours de mise en place. \
 Elle utilise la même technologie de base que [OmniBridge](https://omnibridge.gnosischain.com/bridge) (bridge officiel entre Ethereum et GnosisChain). Elle utilisera les validateurs d'OmniBridge pour faire passer les messages entre les chaînes.
