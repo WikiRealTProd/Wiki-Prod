@@ -6,7 +6,7 @@ description: Pour emprunter, avec des RealTokens en garantie, et/ou prêter des 
 
 ## Introduction
 
-L’application [RMM](https://rmm.realtoken.network/markets) (RealT Market Maker), a été mise en place en Avril 2022 par RealT (à partir du [Protocole Defi AAVE v2](./#pour-en-savoir-plus-aave)) afin de fournir un service de dépôt et prêts de stablecoin, en échange de RealTokens mis en garantie.
+L’application [RMM](https://rmm.realtoken.network/markets) (RealT Market Maker), a été mise en place en Avril 2022 par RealT (à partir du [Protocole Defi AAVE v2](./#pour-en-savoir-plus-aave)) afin de fournir un service de dépôt et prêts de stablecoin, en échange de RealTokens mis en garantie, sur la Gnosis Chain.
 
 RealT a fait les publications suivantes, à l'occasion du lancement :&#x20;
 
@@ -46,18 +46,3 @@ Tuto, réalisé par un membre de la communauté, sur le mode de fonctionnement d
 * [Doc. technique de la v2](https://docs.aave.com/developers/v/2.0/)
 * [Forum de gouvernance (DAO)](https://governance.aave.com/)
 
-{% hint style="info" %}
-RealT a crée le RMM, en collaboration avec Aave : basé sur la version 2 d'Aave,  fonctionnant sur la chain Gnosis et avec des RealToken en collateral.
-{% endhint %}
-
-## Le futur, avec l'évolution vers Aave v3
-
-[Extrait présentation](https://youtu.be/9M\_fcVH-OIg?t=1477) par Marc Zeller d'Aave,
-
-Etapes :&#x20;
-
-* Janvier 2023 : [Proposition de RealT ](https://governance.aave.com/t/deploy-the-rmm-v2-with-the-aave-v3-version/11249)sur le Forum de gouvernance d'Aave,
-* Février : [Proposition](https://governance.aave.com/t/arfc-proposal-for-deploying-whitelabel-aave-v3-market-for-realt-tokens-on-gnosischain/11897) d'usage d'Aave v3 en marque blanche pour le RMM,
-* Mars : [Vote](https://snapshot.org/#/aave.eth/proposal/0xff69be7580614ebc1a455591c1bd651d8f0af12070d277d7d8846beb3c7c964b),
-* [Community call du 9 Mars](https://www.youtube.com/watch?v=Csfsqg6tFuU\&ab\_channel=RealT) lors duquel Marc Zeller est intervenu,
-* point lors du [CC du 10 Aout](https://youtu.be/gaBDoGh2w4k?t=3903).
