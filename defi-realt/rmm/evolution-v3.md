@@ -1,4 +1,4 @@
-# Evolution V3 (d'Aave)
+# Evolution V3
 
 Le RMM, lancé en Avril 2022, est basé sur la solution Aave V2. \
 Aave a déployé sa V3 : en test en mars 2022, en production en janvier 2023.
@@ -15,3 +15,16 @@ Etapes :&#x20;
 * [Community call du 9 Mars](https://www.youtube.com/watch?v=Csfsqg6tFuU\&ab\_channel=RealT) lors duquel Marc Zeller est intervenu,
 * Le RMM n'étant que sur Gnosis, la mise en place d'un [Bridge](../bridge-realtokens-realt.md) pour les anciens RealTokens sur Ethereum est un préalable au passage en V3 (l'ensemble des RealTokens devant être disponible dans cette version),
 * point lors du [CC du 10 Aout](https://youtu.be/gaBDoGh2w4k?t=3903).
+
+Depuis le 30 Aout 2023, le RMM V3 est **en phase de test** (pour une durée évaluée entre 1 et 3 mois) :&#x20;
+
+* Le [Guide de test](https://docs.google.com/document/d/1spk1WrqdKHILwFRi\_yRDf\_fbFz3ZYCuZh5g\_ni0laQA/edit#heading=h.wl1hkzqboxwj),
+* Les tests peuvent être faits par la communauté, sans frais via la blockchain Sepolia,
+* l'[application en test](https://staging-rmm.realtoken.network/),
+* le [Telegram](https://t.me/+j0tdQOWxMEtmOGFk) pour remonter le bug que vous pourriez découvrir (en les documentant un maximum, pour aider les developpeurs à les traiter)
+
+<div data-full-width="true">
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>

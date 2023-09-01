@@ -8,7 +8,7 @@ Transférer vos RealTokens d'une chaine à une autre, avec ce Bridge, est assez 
 2.  Sélectionner la propriété de votre wallet que vous souhaitez transférer :\
     (vous pouvez en sélectionner plusieurs, en cochant la case en tête de liste)
 
-    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="168"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="168"><figcaption></figcaption></figure>
 3.  Indiquer la quantité des RealTokens selectionnés, à transférer :
 
     <figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="290"><figcaption></figcaption></figure>

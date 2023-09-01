@@ -19,7 +19,7 @@ Le cas le plus complexe, est celui d'un brige de Gnosis vers Ethereum, qui néce
     Une procédure pour annuler totalement le bridge et vous faire restituer vos RealTokens sur la chaine source, est alors a mis à disposition dans l'historique via le statut "Help".\
 
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
     Une fois réalisée, le statut de l'opération de Bridge sera "Recovered"
 
