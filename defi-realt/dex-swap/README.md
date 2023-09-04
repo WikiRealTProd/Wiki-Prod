@@ -1,7 +1,7 @@
 ---
 description: >-
-  Pour Vendre/Acheter des RealToken hors RealT et plus largement échanger vos
-  tokens.
+  Application pour échanger vos tokens sur une même blockchain (et plus
+  particulièrement pour échanger vos RealTokens sur Gnosis Chain)
 ---
 
 # Dex de Swap
