@@ -40,3 +40,9 @@ Transférer vos RealTokens d'une chaine à une autre, avec ce Bridge, est assez 
 
 
           <figure><img src="../../.gitbook/assets/image (12).png" alt="" width="563"><figcaption></figcaption></figure>
+
+## Exemples en vidéo :&#x20;
+
+Bridge de RealTokens d'Ethereum vers Gnosis :
+
+{% embed url="https://youtu.be/JwbE-D_8tOI" %}
